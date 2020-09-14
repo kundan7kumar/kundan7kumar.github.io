@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Research
+  url: /research/
+
+- title: Talks
+  url: /talks/
+
+- title: Courses
+  url: /teaching/
+  
+- title: CV
+  url: /reports/UB_CV.pdf
+
+- title: Contact
+  url: /contact/
