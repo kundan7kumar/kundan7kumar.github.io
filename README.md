@@ -23,4 +23,4 @@ See a [live version of Minimal Mistakes](http://mmistakes.github.io/minimal-mist
 Minimal Mistakes takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
 
 To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/minimal-mistakes/theme-setup/) for more information.
-Credit: https://github.com/satwikkottur/satwikkottur.github.io & https://umangsbhatt.github.io/
+Credit: https://satwikkottur.github.io & https://umangsbhatt.github.io/
