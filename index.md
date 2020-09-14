@@ -17,7 +17,8 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Apr 2020]</strong></td>
+        Need to be updated!!!
+<!--         <td valign="top"><strong>[Apr 2020]</strong></td>
         <td>Our <a href="https://arxiv.org/abs/2005.00631">paper</a> on evaluating explanation methods was accepted to <a href="https://ijcai20.org/">IJCAI 2020</a></td>
     </tr>
     <tr>
@@ -50,7 +51,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
         <td valign="top"><strong>[May 2019]</strong></td>
         <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#127891;
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 ----
@@ -58,7 +59,8 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
 <h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
     <tr>
-        <td>
+         Need to be updated!!!
+<!--         <td>
             <a href="https://www.cam.ac.uk/">
             <img src="/images/camb.png"></a>
         </td>
@@ -93,6 +95,6 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <tr>
         <td>Leverhulme CFI<br>2019-Present</td>
         <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td>
+        <td>Groupon<br>Summer 2017</td> -->
     </tr>
 </table>
