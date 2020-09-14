@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Umang Bhatt         
+title: Kundan Kumar         
 locale: en_US
-url: https://umangsbhatt.github.io
+url: https://kundan7kumar.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -23,16 +23,16 @@ kramdown:
 
 # Site owner
 owner:
-  name: Umang Bhatt
+  name: Kundan Kumar
   avatar: bio.jpg
   position: Ph.D. Student
-  school: University of Cambridge
-  place: Cambridge, England, UK
-  bio: "ML Ph.D. Student, University of Cambridge"
-  email: usb20@cam.ac.uk
+  school: Iowa State University
+  place: Ames, Iowa, US
+  bio: "Ph.D. Student, Iowa State University"
+  email: kkumar@iastate.edu
   disqus-shortname:
 
-  twitter: umangsbhatt #username
+  twitter: kundan7kumar #username
   facebook: #username
   google:
     plus: 
@@ -41,10 +41,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  googlescholar: "https://scholar.google.com/citations?user=qq8bxPkAAAAJ&hl=en"
-  github: umangsbhatt
+  googlescholar: "https://scholar.google.com/citations?user=1zDpIJkAAAAJ&hl=en&authuser=2"
+  github: kundan7kumar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: umangsbhatt #username
+  linkedin: kundan7kumar #username
   xing: #username
   instagram: #username
   lastfm: #username
