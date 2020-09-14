@@ -1,20 +1,14 @@
 ---
 layout: page
 title: Welcome
-tags: [umang, bhatt, home, cmu, cambridge, explainability, machine learning, ML, interpretability, artificial intelligence, AI, graduate]
-modified: 2014-08-08T20:53:07.573882-04:00
+tags: [kundan, kumar, home, isu, iowa, explainability, machine learning, ML, interpretability, artificial intelligence, AI, graduate]
+modified: 
 comments: false
 ---
 
 Hey there!
 
-I am a Ph.D. student in the [Machine Learning Group](http://mlg.eng.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Adrian Weller](http://mlg.eng.cam.ac.uk/adrian/). My research interests lie in statistical machine learning, explainable artificial intelligence, and human-machine collaboration.
-
-I am funded by the [Leverhulme Center for the Future of Intelligence](http://lcfi.ac.uk/) (Trust and Transparency Initiative) with generous donations from DeepMind and Leverhulme Trust. I am also a Research Fellow at the [Partnership on AI](https://www.partnershiponai.org/). Starting January 2021, I will be spending some time at [The Alan Turing Institute](https://www.turing.ac.uk/) as an Enrichment Student.
-
-I completed a joint bachelors-masters in [Electrical and Computer Engineering](http://www.ece.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/) working with [Jos&eacute; Moura](http://users.ece.cmu.edu/~moura/). During four wonderful years in Pittsburgh, I collaborated with [Pradeep Ravikumar](http://www.cs.cmu.edu/~pradeepr/) on explainable AI, [Zico Kolter](http://zicokolter.com/) on automated pothole detection, [Fei Fang](https://feifang.info/) and [Manuela Veloso](https://www.cs.cmu.edu/~mmv/) on robot affect expression in competitive settings, and [Radu Marculescu](http://users.ece.utexas.edu/~radum/) on network science for deep learning. 
-
-I grew up in Basking Ridge, New Jersey, USA.
+I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
 
 ----
 
