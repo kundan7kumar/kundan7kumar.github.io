@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact
-tags: [umang, bhatt, contact, graduate, cmu, cambridge]
+tags: [Kundan, kumar, contact, graduate, isu, iowa]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 ---
 
-usb20 [at] cam [dot] ac [dot] uk
+kkumar [at] iastate [dot] edu
