@@ -7,4 +7,3 @@ comments: true
 ---
 
 I have recently started writing my thoughts down through this blog. :)
-
