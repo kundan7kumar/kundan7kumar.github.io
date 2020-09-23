@@ -79,21 +79,21 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     </tr>
     </tr>
         <td>
-            <a href="http://lcfi.ac.uk/">
-            <img src="/images/cfi.png"></a>
+            <a href="https://www.udacity.com/">
+            <img src="/images/udacity.png"></a>
         </td>
-        <td>
+        <!-- <td>
             <a href="https://www.microsoft.com/">
             <img src="/images/msft.png"></a>
-        </td>
-        <td>
+        </td> -->
+        <!-- <td>
             <a href="https://www.groupon.com/">
             <img src="/images/grpn.png"></a>
-        </td>
+        </td> -->
     </tr>
     <tr>
-        <td>Leverhulme CFI<br>2019-Present</td>
-        <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td>
+        <td>udacity<br>2017-Present</td>
+        <!-- <td>Microsoft<br>Summer 2018</td>
+        <td>Groupon<br>Summer 2017</td> -->
     </tr>
 </table>
