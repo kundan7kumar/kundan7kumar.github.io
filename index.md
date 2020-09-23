@@ -8,7 +8,7 @@ comments: false
 
 Hey there!
 
-I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & minoring in [Statistics](https://www.stat.iastate.edu)at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
+I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph.D minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
 
 ----
 
@@ -16,36 +16,36 @@ I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & mi
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
-    <tr>
+    <!-- <tr>
         <td valign="top"><strong>[Apr 2020]</strong></td>
         <td>Our <a href="https://arxiv.org/abs/2005.00631">paper</a> on evaluating explanation methods was accepted to <a href="https://ijcai20.org/">IJCAI 2020</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td valign="top"><strong>[Mar 2020]</strong></td>
         <td>Co-organizing a workshop, <a href="https://sites.google.com/view/whi2020/">Human Interpretability in ML</a>, at <a href="https://icml.cc/Conferences/2020">ICML 2020</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td><a href="https://arxiv.org/abs/1901.08557">On Network Science and Mutual Information for Explaining Deep Neural Networks</a> has been accepted to <a href="https://2020.ieeeicassp.org/">ICASSP 2020</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td valign="top"><strong>[Nov 2019]</strong></td>
         <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> has been accepted to <a href="https://facctconference.org/2020/index.html">FAT&#42; 2020</a></td>
-    </tr>
+    </tr> -->
     <tr>
-        <td valign="top"><strong>[Oct 2019]</strong></td>
-        <td>Joined <a href="http://mlg.eng.cam.ac.uk/">Cambridge MLG</a> as a Ph.D. Student, moving across the pond in the process &#128230;
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge improvement in the process &#128230;
         </td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td valign="top"><strong>[Jun 2019]</strong></td>
         <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow, spending the summer in the Bay Area
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td valign="top"><strong>[Dec 2016]</strong></td>
         <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
