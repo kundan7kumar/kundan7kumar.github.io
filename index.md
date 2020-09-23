@@ -92,7 +92,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
         </td> -->
     </tr>
     <tr>
-        <td>udacity<br>2017-Present</td>
+        <td>Udacity<br>2018-Present</td>
         <!-- <td>Microsoft<br>Summer 2018</td>
         <td>Groupon<br>Summer 2017</td> -->
     </tr>
