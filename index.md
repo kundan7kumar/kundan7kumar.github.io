@@ -8,7 +8,7 @@ comments: false
 
 Hey there!
 
-I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
+I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & minoring in [Statistics](https://www.stat.iastate.edu)at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
 
 ----
 
@@ -47,8 +47,8 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
         </td>
     </tr>
     <tr>
-        <td valign="top"><strong>[May 2019]</strong></td>
-        <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#127891;
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
         </td>
     </tr>
 </table>
