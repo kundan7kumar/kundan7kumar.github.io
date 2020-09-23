@@ -2,7 +2,7 @@
 layout: page
 title: Welcome
 tags: [kundan, kumar, home, isu, iowa, explainability, machine learning, ML, interpretability, artificial intelligence, AI, graduate]
-modified: 
+modified:
 comments: false
 ---
 
@@ -60,7 +60,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
 <table align="center" class='affl-pic'>
     <tr>
          Need to be updated!!!
-<!--         <td>
+        <td>
             <a href="https://www.cam.ac.uk/">
             <img src="/images/camb.png"></a>
         </td>
@@ -95,6 +95,6 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <tr>
         <td>Leverhulme CFI<br>2019-Present</td>
         <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td> -->
+        <td>Groupon<br>Summer 2017</td>
     </tr>
 </table>
