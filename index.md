@@ -32,14 +32,15 @@ I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr> -->
-    <!-- <tr>
-        <td valign="top"><strong>[Nov 2019]</strong></td>
-        <td>Our paper on <a href="https://arxiv.org/abs/1909.06342">Explainable Machine Learning in Deployment</a> has been accepted to <a href="https://facctconference.org/2020/index.html">FAT&#42; 2020</a></td>
-    </tr> -->
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge improvement in the process &#128230;
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
         </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in ICCPS <a href="https://iccps.acm.org/2016/">FAT&#42; 2016</a></td>
     </tr>
     <!-- <tr>
         <td valign="top"><strong>[Jun 2019]</strong></td>
