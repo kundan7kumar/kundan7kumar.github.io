@@ -9,7 +9,8 @@ comments: false
 List of courses took:
 
 **Iowa State University**
-  *Computer Science*
+
+  **Computer Science**
 
 * COMS 572: [Principles of artificial intelligence](https://www.cs.iastate.edu/courses/2019/spring/com-s-572) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
 * COMS 573: [Machine Learning](https://www.cs.iastate.edu/courses/2019/spring/com-s-573) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
