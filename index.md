@@ -78,7 +78,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
         <td>Tata Consultancy Services<br>2012-2014</td>
     </tr>
     </tr>
-        <!-- <td>
+        <td>
             <a href="http://lcfi.ac.uk/">
             <img src="/images/cfi.png"></a>
         </td>
@@ -94,6 +94,6 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <tr>
         <td>Leverhulme CFI<br>2019-Present</td>
         <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td> -->
+        <td>Groupon<br>Summer 2017</td>
     </tr>
 </table>
