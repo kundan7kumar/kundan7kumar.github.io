@@ -7,7 +7,7 @@ comments: false
 ---
 
 My interests broadly lie in the fields of machine learning, Bayesian statistics, and artificial intelligence.
-I am interested in developing productive human-AI teams where humans are provided explanations of model behavior and are made aware of predictive uncertainty.
+I am interested in autonomous Systems like self driving cars, drones and Medical AI. It helps in explanations of model behavior and are made aware of predictive uncertainty.
 
 ### Conference Publications (Refereed and Archived)
 
