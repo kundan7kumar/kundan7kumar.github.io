@@ -80,7 +80,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     </tr>
         <td>
             <a href="https://www.udacity.com/">
-            <img src="/images/udacity.png"></a>
+            <img src="/images/udacity.png" width="100" height="115"></a>
         </td>
         <!-- <td>
             <a href="https://www.microsoft.com/">
