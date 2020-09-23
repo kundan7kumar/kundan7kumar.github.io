@@ -61,15 +61,15 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <tr>
         <td>
             <a href="https://www.iastate.edu/">
-            <img src="/images/ISU.png" width="200" height="121"></a>
+            <img src="/images/ISU.png" width="100" height="115"></a>
         </td>
         <td>
             <a href="https://www.bitsindri.ac.in/">
-            <img src="/images/BIT.png" width="200" height="121"></a>
+            <img src="/images/BIT.png" width="100" height="115"></a>
         </td>
         <td>
             <a href="https://www.tcs.com/">
-            <img src="/images/tcs.png" width="200" height="121"></a>
+            <img src="/images/tcs.png" width="100" height="115"></a>
         </td>
     <tr>
     <tr>
