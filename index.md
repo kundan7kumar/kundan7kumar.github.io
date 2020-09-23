@@ -59,27 +59,26 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
 <h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
     <tr>
-         Need to be updated!!!
         <td>
-            <a href="https://www.cam.ac.uk/">
-            <img src="/images/camb.png"></a>
+            <a href="https://www.iastate.edu/">
+            <img src="/images/ISU.png"></a>
         </td>
         <td>
-            <a href="http://www.cmu.edu/">
-            <img src="/images/cmu-logo.png"></a>
+            <a href="https://www.bitsindri.ac.in/">
+            <img src="/images/BIT.png"></a>
         </td>
         <td>
-            <a href="https://www.partnershiponai.org/">
-            <img src="/images/pai.png"></a>
+            <a href="https://www.tcs.com/">
+            <img src="/images/tcs.png"></a>
         </td>
     <tr>
     <tr>
-        <td>University of Cambridge<br>2019-Present</td>
-        <td>Carnegie Mellon University<br>2015-2019</td>
-        <td>Partnership on AI<br>2019-Present</td>
+        <td>Iowa State University<br>2015-Present</td>
+        <td>BIT Sindri,India<br>2008-2012</td>
+        <td>Tata Consultancy Services<br>2012-2014</td>
     </tr>
     </tr>
-        <td>
+        <!-- <td>
             <a href="http://lcfi.ac.uk/">
             <img src="/images/cfi.png"></a>
         </td>
@@ -95,6 +94,6 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <tr>
         <td>Leverhulme CFI<br>2019-Present</td>
         <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td>
+        <td>Groupon<br>Summer 2017</td> -->
     </tr>
 </table>
