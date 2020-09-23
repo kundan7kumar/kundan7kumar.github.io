@@ -40,7 +40,7 @@ I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph
 
     <tr>
         <td valign="top"><strong>[Apr 2016]</strong></td>
-        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in ICCPS <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
     </tr>
     <!-- <tr>
         <td valign="top"><strong>[Jun 2019]</strong></td>
