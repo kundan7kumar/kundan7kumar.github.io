@@ -17,8 +17,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
     <col width="15%">
     <col width="85%">
     <tr>
-        Need to be updated!!!
-<!--         <td valign="top"><strong>[Apr 2020]</strong></td>
+        <td valign="top"><strong>[Apr 2020]</strong></td>
         <td>Our <a href="https://arxiv.org/abs/2005.00631">paper</a> on evaluating explanation methods was accepted to <a href="https://ijcai20.org/">IJCAI 2020</a></td>
     </tr>
     <tr>
@@ -51,7 +50,7 @@ I am a Ph.D. student in the [Machine Learning](https://www.cs.iastate.edu/) at t
         <td valign="top"><strong>[May 2019]</strong></td>
         <td>Finished my BS and MS at <a href="http://www.cmu.edu/">Carnegie Mellon</a> &#127891;
         </td>
-    </tr> -->
+    </tr>
 </table>
 
 ----
