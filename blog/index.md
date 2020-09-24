@@ -60,6 +60,6 @@ comments: true
     </tr>
 
     <kbd>
-  <img src="https://i.stack.imgur.com/CtiyS.png">
+  <img src="img src="/images/msft.png">
 </kbd>
 </table>
