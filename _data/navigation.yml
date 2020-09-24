@@ -16,11 +16,4 @@
   url: /reports/KK_CV.pdf
 
 - title: Contact
-subfolderitems:
-      - page: Widget 1
-        url: /widget1.html
-      - page: Widget 2
-        url: /widget2.html
-      - page: Widget 3
-        url: /widget3.html
-        url: /contact/
+  url: /contact/
