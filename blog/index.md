@@ -7,7 +7,7 @@ comments: true
 ---
 <div class="item row">
                                <a class="col-md-4 col-sm-4 col-xs-12" href="https://github.com/kundan7kumar/Machine_Learning/tree/master/Project/smartcab" target="_blank">
-                               <img class="img-responsive project-image" src="assets/images/projects/smartcab.png" alt="project name" />
+                               <img class="img-responsive project-image" src="/images/ISU.png" alt="project name" />
                                </a>
                                <div class="desc col-md-8 col-sm-8 col-xs-12">
                                    <h3 class="title"><a href="https://github.com/kundan7kumar/Machine_Learning/tree/master/Project/smartcab" target="_blank">Smart Cab</a></h3>
@@ -15,7 +15,7 @@ comments: true
                                    <p><a class="more-link" href="https://github.com/kundan7kumar/Machine_Learning/tree/master/Project/smartcab" target="_blank"><i class="fa fa-github"></i>Github</a></p>
                                </div><!--//desc-->                          
                            </div><!--//item-->
-                           
+
 <h3 align="center">Blogs</h3>
 <table align="center" class='affl-pic'>
     <tr>
