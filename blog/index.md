@@ -13,8 +13,8 @@ comments: true
                                    <h3 class="title"><a href="https://github.com/kundan7kumar/Machine_Learning/tree/master/Project/smartcab" target="_blank">Smart Cab</a></h3>
                                    <p>Constructing an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.</p>
                                    <p><a class="more-link" href="https://github.com/kundan7kumar/Machine_Learning/tree/master/Project/smartcab" target="_blank"><i class="fa fa-github"></i>Github</a></p>
-                               </div><!--//desc-->                          
-                           </div><!--//item--> -->
+                               <!-- </div><!--//desc-->                          
+                           <!-- </div><!--//item--> 
 
 <h3 align="center">Blogs</h3>
 <table align="center" class='affl-pic'>
