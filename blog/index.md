@@ -55,5 +55,11 @@ comments: true
         <td>Udacity<br>2018-Present</td>
         <!-- <td>Microsoft<br>Summer 2018</td>
         <td>Groupon<br>Summer 2017</td> -->
+
+
     </tr>
+
+    <kbd>
+  <img src="https://i.stack.imgur.com/CtiyS.png">
+</kbd>
 </table>
