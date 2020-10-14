@@ -20,3 +20,16 @@
 
 - title: "Blog Posts"
   url: /posts/
+
+- title: "t"
+  href: "/"
+
+- title: "News"
+  href: "/news/"
+
+- title: "Snippets"
+  subcategories:
+    - subtitle: "Example1"
+      subhref: "#"
+    - subtitle: "Example2"
+      subhref: "#"
