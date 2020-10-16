@@ -11,7 +11,4 @@ Atanasoff Hall,\
 2434 Osborn Dr,\
 Ames, IA 50011
 
-You can reach me at: [kkumar@iastate.edu](kkumar@iastate.edu)
-shdjsjck: mailto:kkumar@iastate.edu
-test:;::
-<a href="mailto:tester@test.com">tester@test.com</a>
+You can reach me at: <a href="mailto:kkumar@iastate.edu">kkumar@iastate.edu</a>
