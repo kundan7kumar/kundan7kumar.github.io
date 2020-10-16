@@ -32,7 +32,7 @@ comments: false
 
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
 
-div align="center">
+<div align="center">
   <b>**New X!**</b>
 </div>
 
