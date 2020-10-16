@@ -7,7 +7,7 @@ comments: false
 ---
 
 **Iowa State University**
-      *List of courses took.*:<br />
+      *List of courses took.*
 \
   **Computer Science**
 * COMS 572: [Principles of artificial intelligence](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
