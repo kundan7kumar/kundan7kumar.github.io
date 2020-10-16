@@ -32,12 +32,16 @@ comments: false
 
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
 
-### New Features!
+div align="center">
+  <b>**New X!**</b>
+</div>
+
+###### New Features!
   - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
   - Assisted students in understanding various concepts of SQL, XML and E-R model
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
 
-## New Features!
+####### New Features!
   - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
   - Assisted students in understanding various concepts of SQL, XML and E-R model
