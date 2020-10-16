@@ -2,8 +2,13 @@
 layout: page
 title: Contact
 tags: [Kundan, kumar, contact, graduate, isu, iowa]
-modified: 
+modified:
 comments: false
 ---
+Kundan Kumar
+Iowa State University
+Atanasoff Hall,
+2434 Osborn Dr
+Ames, IA 50011
 
-kkumar [at] iastate [dot] edu
+You can reach me at: kkumar@iastate.edu

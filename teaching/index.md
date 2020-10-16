@@ -35,8 +35,8 @@ comments: false
 <div align="left">
   <b>*Teaching assistant!*</b>
 </div>
-  - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
-  - Assisted students in understanding various concepts of SQL, XML and E-R model
+    - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
+    - Assisted students in understanding various concepts of SQL, XML and E-R model
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
 
