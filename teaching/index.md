@@ -11,8 +11,10 @@ comments: false
 </div>
 
 * COMS 572: [Principles of artificial intelligence](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
+```
     - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
     - Assisted students in understanding various concepts of SQL, XML and E-R model
+```
 * COMS 573: [Machine Learning](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
     - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
     - Assisted students in understanding various concepts of SQL, XML and E-R model
