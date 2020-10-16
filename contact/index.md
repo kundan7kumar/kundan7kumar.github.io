@@ -8,8 +8,7 @@ comments: false
 Kundan Kumar \
 Iowa State University\
 Atanasoff Hall,\
-2434 Osborn Dr\
+2434 Osborn Dr,\
 Ames, IA 50011
 
-You can reach me at: kkumar@iastate.edu
-[a link](kkumar@iastate.edu)
+You can reach me at: [kkumar@iastate.edu](kkumar@iastate.edu)
