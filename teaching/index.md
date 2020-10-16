@@ -6,12 +6,11 @@ modified:
 comments: false
 ---
 
-**Courses at Iowa State University**
-      *List of courses took.*
-      </br>
+**Courses at Iowa State University(https://catalog.iastate.edu/azcourses/com_s/)**
 \
   **Computer Science**
 * COMS 572: [Principles of artificial intelligence](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
+
 * COMS 573: [Machine Learning](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
 * COMS 575: [Computational Perception](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Alexander Stoytchev](https://www.ece.iastate.edu/~alexs/)
 * COMS 673: [Advanced topics in Computational Model of Learning](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
