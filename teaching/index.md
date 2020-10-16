@@ -23,10 +23,10 @@ comments: false
 * CPRE 537: [Wireless Network Security](https://catalog.iastate.edu/azcourses/cpr_e/) -  taught by [George T. Amariucai](https://www.engineering.iastate.edu/people/profile/gamari/)
 
 **Statistics**
-* STAT 587: [Statistical methods for Research Workers](https://www.cs.iastate.edu/courses/2019/spring/com-s-309) -  taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra/)
-* STAT 430/583: [Empirical Methods for the Computational Sciences](https://www.cs.iastate.edu/courses/2019/spring/com-s-309) -  taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra/)
+* STAT 587: [Statistical methods for Research Workers](https://catalog.iastate.edu/azcourses/stat/) -  taught by [Chong Wang](https://www.stat.iastate.edu/people/chong-wang)
+* STAT 430/583: [Empirical Methods for the Computational Sciences](https://catalog.iastate.edu/azcourses/stat/) -  taught by [Kris De Brabanter](https://www.stat.iastate.edu/people/kris-de-brabanter)
 
 **Iowa State University (2020)**
 *Teaching assistant for below courses.*
-* COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra/)
-* COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra/)
+* COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/matthew-tan-creti)
+* COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
