@@ -6,7 +6,7 @@ modified:
 comments: false
 ---
 
-**Iowa State University**
+**Courses at Iowa State University**
       *List of courses took.*
       </br>
 \
