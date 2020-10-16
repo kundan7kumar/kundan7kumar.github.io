@@ -7,8 +7,6 @@ comments: false
 ---
 **Iowa State University (2020)** [Courses at Iowa State University](https://cs.iastate.edu/)
 \
-* [Courses at Iowa State University](https://cs.iastate.edu/)
-\
   **Computer Science**
 * COMS 572: [Principles of artificial intelligence](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
 
@@ -27,11 +25,7 @@ comments: false
 * STAT 587: [Statistical methods for Research Workers](https://catalog.iastate.edu/azcourses/stat/) -  taught by [Chong Wang](https://www.stat.iastate.edu/people/chong-wang)
 * STAT 430/583: [Empirical Methods for the Computational Sciences](https://catalog.iastate.edu/azcourses/stat/) -  taught by [Kris De Brabanter](https://www.stat.iastate.edu/people/kris-de-brabanter)
 
-
-
-\
-**Iowa State University (2020)**
-* [Teaching assistant at Iowa State University](https://cs.iastate.edu/)
+**Iowa State University (2020)** [Teaching assistant at Iowa State University](https://cs.iastate.edu/)
 \
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
