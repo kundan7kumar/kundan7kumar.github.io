@@ -7,7 +7,8 @@ comments: false
 ---
 
 **Iowa State University**
-      List of courses took:<br />
+\
+      ** List of courses took **:<br />
 \
   **Computer Science**
 
