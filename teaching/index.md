@@ -28,5 +28,5 @@ comments: false
 
 **Iowa State University (2020)**
 *Teaching assistant for below courses.*
-* COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/matthew-tan-creti)
+* COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - Undergraduate Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
