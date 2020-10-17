@@ -55,13 +55,22 @@ comments: false
     - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
     - Assisted students in understanding various concepts of SQL, XML and E-R model
 
+
+    <div class="col-md-3 col-sm-8 col-xs-10" data-wow-offset="0" data-wow-delay="0.9s" >
+      <div class="text-center">
+
+
+
 **Iowa State University (2020)** [Teaching assistant at Iowa State University](https://cs.iastate.edu/)
 
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
     - Supervised the class of 50 students and graded projects, term exams and quizzes.
-    - Assisted students in understanding various concepts of object oriented Programming.<br /> 
+    - Assisted students in understanding various concepts of object oriented Programming.
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
     - Supervised the class groups on the end to end software development projects.
     - Assisted students in understanding various concepts of SQL, Spring Boot, Mockito test Framework, CI/CD pipeline
      Android and IOS application Development.
+
+     </div>
+   </div>
