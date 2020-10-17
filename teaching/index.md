@@ -56,9 +56,6 @@ comments: false
     - Assisted students in understanding various concepts of SQL, XML and E-R model
 
 
-    <div class="col-md-3 col-sm-8 col-xs-10" data-wow-offset="0" data-wow-delay="0.9s" >
-      <div class="text-center">
-
 
 
 **Iowa State University (2020)** [Teaching assistant at Iowa State University](https://cs.iastate.edu/)
@@ -71,6 +68,3 @@ comments: false
     - Supervised the class groups on the end to end software development projects.
     - Assisted students in understanding various concepts of SQL, Spring Boot, Mockito test Framework, CI/CD pipeline
      Android and IOS application Development.
-
-     </div>
-   </div>
