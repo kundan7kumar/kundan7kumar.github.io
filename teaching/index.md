@@ -10,20 +10,6 @@ comments: false
   <b>**Computer Science**</b>
 </div>
 
-<div class="container">
-  <div style="padding-top:5px;">
-
-  <div class="col-md-3 col-sm-8 col-xs-10" data-wow-offset="0" data-wow-delay="0.9s" >
-    <div class="text-center">											
-      * COMS 572: [Principles of artificial intelligence](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
-          - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
-          - Assisted students in understanding various concepts of SQL, XML and E-R model
-        <p>Iowa State University</p>
-      </div>
-    </div>
-  </div>
-
-
 * COMS 572: [Principles of artificial intelligence](https://catalog.iastate.edu/azcourses/com_s/) - taught by [Jin Tian](https://www.cs.iastate.edu/people/jin-tian)
 
     - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
