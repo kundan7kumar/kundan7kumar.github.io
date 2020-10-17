@@ -45,6 +45,7 @@ comments: false
     - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
     - Assisted students in understanding various concepts of SQL, XML and E-R model
 
+
 <div align="center">
 <b>**Statistics**</b>
 </div>
@@ -57,7 +58,7 @@ comments: false
 
 
 
-
+<hr style="border:2px solid gray"> </hr>
 **Iowa State University (2020)** [Teaching assistant at Iowa State University](https://cs.iastate.edu/)
 
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
