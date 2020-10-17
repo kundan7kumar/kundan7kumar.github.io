@@ -6,6 +6,7 @@ modified:
 comments: false
 ---
 **Iowa State University (2020)** [Courses at Iowa State University](https://cs.iastate.edu/)
+<hr style="border:1px solid gray">
 <div align="center">
   <b>**Computer Science**</b>
 </div>
