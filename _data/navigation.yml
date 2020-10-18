@@ -6,7 +6,7 @@
 - title: Research
   url: /research/
 
-- title: Blog
+- title: Blogs
   url: /blog/
 
 - title: Courses
@@ -15,11 +15,12 @@
 - title: CV
   url: /reports/KK_CV.pdf
 
+- title: "Projects"
+  url: /posts/
+
 - title: Contact
   url: /contact/
 
-- title: "Personal"
-  url: /posts/
 
 - title: Support
   url: /support.html
