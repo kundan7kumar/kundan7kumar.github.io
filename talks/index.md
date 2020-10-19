@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Talks
+title: Projects
 tags: [talks, kundan, kumar, iowa, isu, graduate]
-modified: 
+modified:
 comments: false
 ---
-
-Below is a list of research talks I have given.
-
+Life is like is sinusoidal wave which has several ups and downs, skill development is always beneficial for personal and professional growth.
 ----
 
 Need to be updated!!!
-
