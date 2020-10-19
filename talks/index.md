@@ -5,25 +5,26 @@ tags: [talks, kundan, kumar, iowa, isu, graduate]
 modified:
 comments: false
 ---
-Life is like is sinusoidal wave which has several ups and downs, skill development is always beneficial for personal and professional growth.
 ----
+Life is like is sinusoidal wave which has several ups and downs, skill development is always beneficial for personal and professional growth.
 
-Data Structure & Algorithm:
+
+### Data Structure & Algorithm:
 
 It never too late to learn new things.I Started Coding during during my master's.
 
 
-# Web Development :
+### Web Development :
 
 
-# Mobile Application Development:
+### Mobile Application Development:
 
-# IOS Development:
+### IOS Development:
 
-# Android Development:
-
-
-# Devops:
+### Android Development:
 
 
-# Data Science:
+### Devops:
+
+
+### Data Science:
