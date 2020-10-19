@@ -15,20 +15,12 @@
 - title: CV
   url: /reports/KK_CV.pdf
 
-- title: "Projects"
+- title: Projects
   url: /talks/
 
 - title: Contact
   url: /contact/
 
 
-- title: Support
-  url: /support.html
-  sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentation
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+- title: Activites
+  url: /travel/
