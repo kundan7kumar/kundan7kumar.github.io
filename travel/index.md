@@ -7,13 +7,6 @@ comments: false
 share: false
 ---
 
-I think that i was too lethargic in my life, there is no fun in my life. I started chaning my motoncity in my life.
-
-Heath is a state of complete harmony of the body, mind and spirit
-by Iyenger
-I started a small steps in this regards. Thanks
-
-2020 is bad year to start but
 
 # Sporting Activities:
 Ice Skating: it was a great experience , a skill which i never dream of
@@ -50,9 +43,154 @@ Hey there!
 
 I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph.D minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
 
+I think that i was too lethargic in my life, there is no fun in my life. I started chaning my motoncity in my life.
+
+Heath is a state of complete harmony of the body, mind and spirit
+by Iyenger
+I started a small steps in this regards. Thanks
+
+2020 is bad year to start but
 ----
 
-<h3 align="center">News</h3>
+<h3 align="center">Ice Skating</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
+        </td>
+    </tr>
+</table>
+
+----
+<h3 align="center">Martial Arts</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
+        </td>
+    </tr>
+</table>
+
+----
+<h3 align="center">Swimming</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
+        </td>
+    </tr>
+</table>
+
+----
+<h3 align="center">Physical Fitness</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
+        </td>
+    </tr>
+</table>
+
+----
+<h3 align="center">Golf</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
+        </td>
+    </tr>
+</table>
+
+----
+<h3 align="center">Ice </h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+
+    <tr>
+        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2016]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
+        </td>
+    </tr>
+</table>
+
+----
+<h3 align="center">Ice Skating</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
