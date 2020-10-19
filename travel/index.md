@@ -1,11 +1,31 @@
 ---
 layout: page
 title: Travel
-tags: [umang, bhatt, travel, graduate]
+tags: [kundan, kumar, travel, graduate]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
 share: false
 ---
+
+Sporting Activities:
+Ice Skating:
+Martial Arts:
+Swimming:
+Golf:
+Exercise:
+
+Meditation:
+Vipassana:
+
+Photography:
+
+
+Communication skill:
+It is not in my forte
+Writing:
+Speaking:
+Reading:
+
 
 
 Upon moving to the United Kingdom in Fall 2019, I decided that I wanted to *attempt* to visit every country in Europe before I finish my Ph.D. I will keep a running list of countries here (along with the date and city I first visit):
