@@ -7,49 +7,21 @@ comments: false
 share: false
 ---
 
+Hey All!
 
-# Sporting Activities:
-Ice Skating: it was a great experience , a skill which i never dream of
+I realized myself about life in 2020 and COVID confined my life in the shell. I had lethargy my life from long time
+and this quarantine period made me realized me to break the monotonicity and achieve a greater heights in my life.
 
-Martial Arts: Martial Arts is extermely good for bosy and mind commections:
+Lastly i gave my protincation , braeking the life spend my Netflix and social media platform.
 
-Swimming:
+I started with small steps to learn new things
 
-Golf:
+As Coming from small place in Bihar, India.
 
-Fitness:
-I started practing yoga and doing some exccerise:
-
-
-Meditation:
-Vipassana:
-
-Photography:
-
-Music:
-
-Travel:
+Finally, I realized A healthy mind and body will
 
 
-### Communication skill:
-
-It is not in my forte
-Writing:
-Speaking:
-Reading:
-
-
-Hey there!
-
-I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph.D minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
-
-I think that i was too lethargic in my life, there is no fun in my life. I started chaning my motoncity in my life.
-
-Heath is a state of complete harmony of the body, mind and spirit
-by Iyenger
-I started a small steps in this regards. Thanks
-
-2020 is bad year to start but
+Sporting Activites:
 ----
 
 <h3 align="center">Ice Skating</h3>
