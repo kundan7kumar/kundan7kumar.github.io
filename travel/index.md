@@ -19,12 +19,11 @@ Vipassana:
 
 Photography:
 
+Music:
 
-Communication skill:
-It is not in my forte
-Writing:
-Speaking:
-Reading:
+Travel:
+
+
 
 
 

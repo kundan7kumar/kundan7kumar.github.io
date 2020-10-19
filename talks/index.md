@@ -27,4 +27,9 @@ It never too late to learn new things.I Started Coding during during my master's
 ### Devops:
 
 
-### Data Science:
+### Communication skill:
+
+It is not in my forte
+Writing:
+Speaking:
+Reading:
