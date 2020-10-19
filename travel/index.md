@@ -12,7 +12,7 @@ Hey All!
 I realized myself about life in 2020 and COVID confined my life in the shell. I had lethargy my life from long time
 and this quarantine period made me realized me to break the monotonicity and achieve a greater heights in my life.
 
-Lastly i gave my protincation , braeking the life spend my Netflix and social media platform.
+Lastly i gave my procrastination , breaking the life spend my Netflix and social media platform.
 
 I started with small steps to learn new things
 
@@ -20,6 +20,7 @@ As Coming from small place in Bihar, India.
 
 Finally, I realized A healthy mind and body will
 
+I think social media addiction like facebook, instagram, youtube etc are ruining the life. I limited the use such platform.
 
 Sporting Activites:
 ----
@@ -30,7 +31,7 @@ Sporting Activites:
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process in my armory.&#128230;
         </td>
     </tr>
 
