@@ -46,16 +46,6 @@ Sporting Activities:
         <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
         </td>
     </tr>
-
-    <tr>
-        <td valign="top"><strong>[Apr 2016]</strong></td>
-        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
-    </tr>
 </table>
 
 ----
@@ -65,19 +55,8 @@ Sporting Activities:
     <col width="85%">
 
     <tr>
-        <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
-        </td>
-    </tr>
-
-    <tr>
         <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
-    </tr>
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
     </tr>
 </table>
 
@@ -115,17 +94,6 @@ Sporting Activities:
         <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
         </td>
     </tr>
-
-    <tr>
-        <td valign="top"><strong>[Apr 2016]</strong></td>
-        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
-    </tr>
-
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
-    </tr>
 </table>
 
 ----
@@ -144,12 +112,6 @@ Sporting Activities:
     <tr>
         <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
-    </tr>
-
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
     </tr>
 </table>
 
@@ -170,12 +132,6 @@ Sporting Activities:
         <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
     </tr>
-
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
-    </tr>
 </table>
 
 ----
@@ -192,16 +148,6 @@ Sporting Activities:
     <tr>
         <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
-    </tr>
-    <!-- <tr>
-        <td valign="top"><strong>[Jun 2019]</strong></td>
-        <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow, spending the summer in the Bay Area
-        </td>
-    </tr> -->
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
     </tr>
 </table>
 
