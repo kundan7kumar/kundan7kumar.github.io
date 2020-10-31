@@ -7,6 +7,9 @@ comments: false
 ---
 ----
 
+>Doing real world projects is, I think, the best way to learn and also to engage the world
+>and find out what the world is all about.
+>                           -Ray Kurzweil
 Hey there!
 
 I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph.D minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/), where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/). My research interests lie in statistical machine learning, artificial intelligence, and self driving cars.
