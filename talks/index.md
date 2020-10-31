@@ -13,7 +13,7 @@ comments: false
 <h4 align="center">-Ray Kurzweil</h4>
 
 ----
-<p>Apart from md;</p>
+<p>Apart from research, i am software developer and continuoulsy /p>
 ----
 <h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Data Structure & Algorithm</a></h3>
 <table class='news-table'>
@@ -51,11 +51,6 @@ comments: false
         <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
     </tr>
-    <!-- <tr>
-        <td valign="top"><strong>[Jun 2019]</strong></td>
-        <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow, spending the summer in the Bay Area
-        </td>
-    </tr> -->
     <tr>
         <td valign="top"><strong>[Dec 2016]</strong></td>
         <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;

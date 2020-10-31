@@ -17,7 +17,7 @@ Lastly i gave my procrastination , breaking the life spend my Netflix and social
 I started with small steps to learn new things
 
 As Coming from small place in Bihar, India.
-
+https://en.wikipedia.org/wiki/Bodh_Gaya
 Finally, I realized A healthy mind and body will
 
 I think social media addiction like facebook, instagram, youtube etc are ruining the life. I limited the use such platform.
@@ -212,8 +212,7 @@ Sporting Activities:
 </table>
 
 ----
-
-<h3 align="center">Travel</h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Travel</a></h3>
 <table align="center" class='affl-pic'>
     <tr>
         <td>
@@ -239,27 +238,18 @@ Sporting Activities:
             <a href="https://www.udacity.com/">
             <img src="/images/udacity.png" width="100" height="115"></a>
         </td>
-        <!-- <td>
+        <td>
             <a href="https://www.microsoft.com/">
             <img src="/images/msft.png"></a>
         </td> -->
-        <!-- <td>
+         <td>
             <a href="https://www.groupon.com/">
             <img src="/images/grpn.png"></a>
-        </td> -->
+        </td>
     </tr>
     <tr>
         <td>Udacity<br>2018-Present</td>
-        <!-- <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td> -->
+        <td>Microsoft<br>Summer 2018</td>
+        <td>Groupon<br>Summer 2017</td>
     </tr>
 </table>
-
-
-Upon moving to the United Kingdom in Fall 2019, I decided that I wanted to *attempt* to visit every country in Europe before I finish my Ph.D. I will keep a running list of countries here (along with the date and city I first visit):
-
-1. Denmark: March 5, 2020. (Copenhagen with HP)
-1. Spain: January 25, 2020. (Barcelona for FAT\* 2020)
-1. Monaco: January 10, 2020. (Monaco with DS and SS)
-1. France: January 9, 2020. (Nice with DS and SS)
-1. United Kingdom: April 1, 2019. (London to see AW)
