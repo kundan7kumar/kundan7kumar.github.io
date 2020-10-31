@@ -10,7 +10,7 @@ comments: false
 > Doing real world projects is, I think, the best way to learn and also to engage the world
 > and find out what the world is all about.
 
-<h2 align="center">-Ray Kurzweil</h2>
+<h5 align="center">-Ray Kurzweil</h5>
 
 
 
@@ -22,7 +22,7 @@ It never too late to learn new things.I Started Coding during during my master's
 
 ----
 
-<h3 align="center">Data Structure & Algorithm</h3>
+<h3 align="center">[Computer Science](https://www.cs.iastate.edu/) Data Structure & Algorithm</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
