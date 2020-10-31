@@ -10,7 +10,7 @@ comments: false
 > Doing real world projects is, I think, the best way to learn and also to engage the world
 > and find out what the world is all about.
 
-<h3 align="right">-Ray Kurzweil</h3>
+<h2 align="center">-Ray Kurzweil</h2>
 
 
 
