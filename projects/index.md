@@ -130,6 +130,11 @@ comments: false
             <a href="https://www.udacity.com/">
             <img src="/images/udacity.png" width="100" height="115"></a>
         </td>
+        <tr>
+            <td valign="top"><strong>[Jan 2020]</strong></td>
+            <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+            </td>
+        </tr>
 
     </tr>
     <tr>
