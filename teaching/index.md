@@ -51,6 +51,9 @@ comments: false
 <div align="center">
 <b>**Statistics**</b>
 </div>
+* STAT 585: [Data Technologies for Statistical Analysis](https://stat585-at-isu.github.io/) -  taught by [Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann)
+    - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
+    - Assisted students in understanding various concepts of SQL, XML and E-R model
 * STAT 587: [Statistical methods for Research Workers](https://catalog.iastate.edu/azcourses/stat/) -  taught by [Chong Wang](https://www.stat.iastate.edu/people/chong-wang)
     - Independently supervised the class of 30 students and graded projects, term exams and quizzes.
     - Assisted students in understanding various concepts of SQL, XML and E-R model
