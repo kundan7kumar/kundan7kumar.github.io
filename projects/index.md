@@ -20,7 +20,7 @@ comments: false
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Feb 2021 - May 2021]</strong></td>
+        <td valign="top"><strong>[Feb 1: 2021 - May 10: 2021]</strong></td>
         <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
         </td>
     </tr>
