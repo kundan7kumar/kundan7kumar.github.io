@@ -13,14 +13,14 @@ comments: false
 <h4 align="center">-Ray Kurzweil</h4>
 
 ----
-<p>Apart from research, i am software developer and continuoulsy /p>
+<p>Apart from research, Upgrading the skill which always help to achieve bigger goals. /p>
 ----
-<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Data Structure & Algorithm</a></h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Data Structure & Algorithm Challenge</a></h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Jan 2020]</strong></td>
+        <td valign="top"><strong>[Feb 2021 - May 2021]</strong></td>
         <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
         </td>
     </tr>
