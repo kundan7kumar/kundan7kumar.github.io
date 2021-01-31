@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Kundan Kumar         
+title: Kundan Kumar
 locale: en_US
 url: https://kundan7kumar.github.io
 # Jekyll configuration
@@ -35,7 +35,7 @@ owner:
   twitter: kundan7kumar #username
   facebook: #username
   google:
-    plus: 
+    plus:
     analytics: UA-134194584-1
     verify:
     ad-client:
@@ -45,6 +45,7 @@ owner:
   github: kundan7kumar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: kundan7kumar #username
+  Medium: https://medium.com/@kkundankumar
   xing: #username
   instagram: #username
   lastfm: #username
