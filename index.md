@@ -8,7 +8,7 @@ comments: false
 
 Hey there!
 
-I am currently pursuing Ph.D. degree in [Computer Science](https://www.cs.iastate.edu/) & minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My interest lies in optimization \\ Volt-Var problem as well as security in Smart Grid using Reinforcement learning, Graph Neural and Generative Adversarial Network.
+I am currently pursuing Ph.D. degree in [Computer Science](https://www.cs.iastate.edu/) & minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My interest lies in optimization of Volt-Var problem as well as security in Smart Grid using Reinforcement learning, Graph Neural and Generative Adversarial Network.
 My research also lies in statistical machine learning, artificial intelligence, Computer Vision and Robotics.
 ----
 
@@ -82,11 +82,11 @@ My research also lies in statistical machine learning, artificial intelligence, 
             <img src="/images/tcs.png" width="100" height="115"></a>
         </td>
     <tr>
-    <tr>
+    <!-- <tr>
         <td>Iowa State University<br>2015-Present</td>
         <td>BIT Sindri,India<br>2008-2012</td>
         <td>Tata Consultancy Services<br>2012-2014</td>
-    </tr>
+    </tr> -->
     </tr>
         <td>
             <a href="https://www.udacity.com/">
