@@ -8,8 +8,8 @@ comments: false
 
 Hey there!
 
-I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph.D minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My research interests lie in statistical machine learning, artificial intelligence, Reinforcement Learning and Robotics.
-
+I am currently pursuing Ph.D. degree in [Computer Science](https://www.cs.iastate.edu/) & minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My interest lies in optimization \\ Volt-Var problem as well as security in Smart Grid using Reinforcement learning, Graph Neural and Generative Adversarial Network.
+My research also lies in statistical machine learning, artificial intelligence, Computer Vision and Robotics.
 ----
 
 <h3 align="center">News</h3>
@@ -27,6 +27,7 @@ I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph
     <!-- <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td><a href="https://arxiv.org/abs/1901.08557">On Network Science and Mutual Information for Explaining Deep Neural Networks</a> has been accepted to <a href="https://2020.ieeeicassp.org/">ICASSP 2020</a></td>
+
     </tr> -->
     <!-- <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
@@ -34,24 +35,33 @@ I am a Ph.D. student in the [Computer Science](https://www.cs.iastate.edu/) & Ph
     </tr> -->
     <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
+        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#127891;
         </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Aug 2022]</strong></td>
+        <td>Joined <a href="https://www.oxfordml.school/">Oxford Machine Learning Summer School</a> Participant MLx Health and MLx Finance Program
+        </td>
+    </tr>
+
+    <tr>
+        <td valign="top"><strong>[Apr 2022]</strong></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Pattern Based Multivariate Regression using Deep Learning (PBMR-DP) </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICML&#42; 2022</a></td>
     </tr>
 
     <tr>
         <td valign="top"><strong>[Apr 2016]</strong></td>
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
     </tr>
+
+
+
     <!-- <tr>
-        <td valign="top"><strong>[Jun 2019]</strong></td>
-        <td>Joined <a href="https://www.partnershiponai.org/">Partnership on AI</a> as a Research Fellow, spending the summer in the Bay Area
+        <td valign="top"><strong>[Dec 2016]</strong></td>
+        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a>&#128230;
         </td>
     </tr> -->
-    <tr>
-        <td valign="top"><strong>[Dec 2016]</strong></td>
-        <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a> &#127891;
-        </td>
-    </tr>
 </table>
 
 ----
