@@ -10,7 +10,7 @@ Hey there!
 
 I am currently pursuing Ph.D. degree in [Computer Science](https://www.cs.iastate.edu/) & minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My interest lies in optimization of Volt-Var problem as well as security in Smart Grid using Reinforcement learning, Graph Neural and Generative Adversarial Network.
 My research also lies in statistical machine learning, artificial intelligence, Computer Vision and Robotics.
-----
+
 
 <h3 align="center">News</h3>
 <table class='news-table'>
