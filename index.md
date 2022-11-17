@@ -55,8 +55,6 @@ My research also lies in statistical machine learning, artificial intelligence, 
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
     </tr>
 
-
-
     <!-- <tr>
         <td valign="top"><strong>[Dec 2016]</strong></td>
         <td>Completed MS in Computer Science at <a href="https://www.iastate.edu/">Iowa State University</a>&#128230;
@@ -102,7 +100,7 @@ My research also lies in statistical machine learning, artificial intelligence, 
         </td> -->
     </tr>
     <tr>
-        <td>Udacity<br>2018-Present</td>
+        <!-- <td>Udacity<br>2018-Present</td> -->
         <!-- <td>Microsoft<br>Summer 2018</td>
         <td>Groupon<br>Summer 2017</td> -->
     </tr>
