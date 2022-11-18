@@ -92,7 +92,7 @@ My research also lies in statistical machine learning, artificial intelligence, 
         </td>
         <td>
             <a href="https://www.oxfordml.school/">
-            <img src="/images/AI_global.jpg"></a>
+            <img src="/images/AI_global.jpg" width="100" height="115"></a>
         </td>
         <!-- <td>
             <a href="https://www.groupon.com/">
