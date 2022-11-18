@@ -45,7 +45,7 @@ owner:
   github: kundan7kumar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: kundan7kumar #username
-  medium: https://kkundann.medium.com/
+  # medium: https://kkundann.medium.com/
   xing: #username
   instagram: #username
   lastfm: #username
@@ -60,7 +60,7 @@ owner:
   flickr: #username
   codepen: #username
   scholar: #username
-  medium: kundan7kumar
+  medium: @kkundann
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
