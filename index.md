@@ -102,6 +102,6 @@ My research also lies in statistical machine learning, artificial intelligence, 
     <tr>
         <td>Udacity<br></td>
         <td>Oxford ML Summer School<br></td>
-        <!-- <td>Groupon<br>Summer 2017</td> --> 
+        <!-- <td>Groupon<br>Summer 2017</td> -->
     </tr>
 </table>
