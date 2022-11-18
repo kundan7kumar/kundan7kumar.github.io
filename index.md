@@ -6,7 +6,7 @@ modified:
 comments: false
 ---
 
-Hey there!
+<!-- Hey there! -->
 
 I am currently pursuing Ph.D. degree in [Computer Science](https://www.cs.iastate.edu/) & minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My interest lies in optimization of Volt-Var problem as well as security in Smart Grid using Reinforcement learning, Graph Neural and Generative Adversarial Network.
 My interest also lies in statistical machine learning, artificial intelligence, Computer Vision and Robotics.
@@ -101,7 +101,7 @@ My interest also lies in statistical machine learning, artificial intelligence, 
     </tr>
     <tr>
         <td>Udacity<br></td>
-        <td>Oxford ML Summer School 2022<br></td>
+        <td>OxML Summer School 2022<br></td>
         <!-- <td>Groupon<br>Summer 2017</td> -->
     </tr>
 </table>

@@ -9,7 +9,7 @@ comments: false
 My interests broadly lie in the fields of machine learning, Bayesian statistics, and artificial intelligence.
 I am interested in autonomous Systems like self driving cars, drones and Medical AI. It helps in explanations of model behavior and are made aware of predictive uncertainty.
 
-### Conference Publications (Refereed and Archived)
+### Publications
 
 1. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
 [Pattern Based Multivariate Regression using Deep Learning (PBMR-DP)]()   
