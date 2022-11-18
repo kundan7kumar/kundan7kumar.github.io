@@ -80,28 +80,28 @@ My research also lies in statistical machine learning, artificial intelligence, 
             <img src="/images/tcs.png" width="100" height="115"></a>
         </td>
     <tr>
-    <!-- <tr>
-        <td>Iowa State University<br>2015-Present</td>
-        <td>BIT Sindri,India<br>2008-2012</td>
-        <td>Tata Consultancy Services<br>2012-2014</td>
-    </tr> -->
+     <tr>
+        <td>Iowa State University<br></td>
+        <td>BIT Sindri,India<br></td>
+        <td>Tata Consultancy Services<br></td>
+    </tr>
     </tr>
         <td>
             <a href="https://www.udacity.com/">
             <img src="/images/udacity.png" width="100" height="115"></a>
         </td>
-        <!-- <td>
-            <a href="https://www.microsoft.com/">
-            <img src="/images/msft.png"></a>
-        </td> -->
+        <td>
+            <a href="https://www.oxfordml.school/">
+            <img src="/images/AI_global.jpg"></a>
+        </td>
         <!-- <td>
             <a href="https://www.groupon.com/">
             <img src="/images/grpn.png"></a>
         </td> -->
     </tr>
     <tr>
-        <!-- <td>Udacity<br>2018-Present</td> -->
-        <!-- <td>Microsoft<br>Summer 2018</td>
-        <td>Groupon<br>Summer 2017</td> -->
+        <td>Udacity<br></td>
+        <td>Oxford ML Summer School<br></td>
+        <!-- <td>Groupon<br>Summer 2017</td> --> 
     </tr>
 </table>
