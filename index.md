@@ -87,8 +87,8 @@ My interest also lies in statistical machine learning, artificial intelligence, 
     </tr>
     </tr>
         <td>
-            <!-- <a href="https://www.udacity.com/">
-            <img src="/images/udacity.png" width="100" height="115"></a> -->
+            <a href="https://www.udacity.com/">
+            <img src="/images/udacity.png" width="100" height="115"></a>
         </td>
         <td>
             <a href="https://www.oxfordml.school/">
