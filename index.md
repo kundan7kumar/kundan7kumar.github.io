@@ -47,7 +47,7 @@ My interest also lies in statistical machine learning, artificial intelligence, 
 
     <tr>
         <td valign="top"><strong>[Apr 2022]</strong></td>
-        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Pattern Based Multivariate Regression using Deep Learning (PBMR-DP) </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICML&#42; 2022</a></td>
+        <td>Our paper on <a href="https://arxiv.org/pdf/2202.13541.pdf">Pattern Based Multivariate Regression using Deep Learning (PBMR-DP) </a> has been accepted in <a href="https://www.icmla-conference.org/icmla22/">ICMLA&#42; 2022</a></td>
     </tr>
 
     <tr>
