@@ -33,11 +33,11 @@ My interest also lies in statistical machine learning, artificial intelligence, 
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr> -->
-    <tr>
+    <!-- <tr>
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#127891;
         </td>
-    </tr>
+    </tr> -->
 
     <tr>
         <td valign="top"><strong>[Aug 2022]</strong></td>
