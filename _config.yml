@@ -53,7 +53,7 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: kundan7kumar #username
   medium: https://kkundann.medium.com/
-  orcid: #username
+  orcid: "https://orcid.org/0000-0002-3229-6649"
   xing: #username
   instagram: #username
   lastfm: #username
