@@ -1,0 +1,66 @@
+# Site wide configuration
+
+title: Kundan Kumar
+locale: en_US
+url: https://kundan7kumar.github.io
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+# Site owner
+owner:
+  name: Kundan Kumar
+  avatar: bio.jpg
+  position: Ph.D. Student
+  school: Iowa State University
+  place: Ames, Iowa, US
+  bio: "Ph.D. Student, Iowa State University"
+  email: kkumar@iastate.edu
+  disqus-shortname:
+
+  twitter: kundan7kumar #username
+  facebook: #username
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  googlescholar: "https://scholar.google.com/citations?user=1zDpIJkAAAAJ&hl=en&authuser=2"
+  github: kundan7kumar
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: kundan7kumar #username
+  medium: https://kkundann.medium.com/
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
+  scholar: #username
+  # medium: @kkundannqs
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
