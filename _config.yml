@@ -21,6 +21,13 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
+  # Analytics
+analytics:
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+
 # Site owner
 owner:
   name: Kundan Kumar
@@ -46,6 +53,7 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: kundan7kumar #username
   medium: https://kkundann.medium.com/
+  orcid: #username
   xing: #username
   instagram: #username
   lastfm: #username
@@ -62,5 +70,5 @@ owner:
   scholar: #username
   # medium: @kkundannqs
 
-include: [".htaccess"]
+include: [".htaccess","_pages","files"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
