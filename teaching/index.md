@@ -8,13 +8,14 @@ comments: false
 
 Below are the courses in which i was teaching assistant
 
-**Iowa State University (2020 -Present)**
+**Iowa State University**
 <!-- [Courses at Iowa State University](https://cs.iastate.edu/) -->
 <hr style="border:1px solid gray">
 <!-- <div align="center">
   <b>**Computer Science**</b>
 </div> -->
 
+* COMS 319 : [Construction of User Interfaces] (https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Abraham Aldaco] (https://www.cs.iastate.edu/people/abraham-aldaco)
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
     - Supervised the class groups on the end to end software development projects.
