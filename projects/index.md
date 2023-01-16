@@ -15,7 +15,7 @@ comments: false
 ----
 <p>Apart from research, Upgrading the skill which always help to achieve bigger goals. </p>
 ----
-<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Data Structure & Algorithm Challenge</a></h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Data Structure and Algorithm Challenge</a></h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
