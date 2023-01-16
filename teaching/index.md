@@ -15,7 +15,7 @@ Below are the courses in which i was teaching assistant
   <b>**Computer Science**</b>
 </div> -->
 
-* COMS 319 : [Construction of User Interfaces] (https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Abraham Aldaco] (https://www.cs.iastate.edu/people/abraham-aldaco)
+* COMS 319 : [Construction of User Interfaces](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Abraham Aldaco](https://www.cs.iastate.edu/people/abraham-aldaco)
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
     - Supervised the class groups on the end to end software development projects.
@@ -23,13 +23,15 @@ Below are the courses in which i was teaching assistant
      Android and IOS application Development.
     - A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
 
+* COMS 363: [Introduction to Database Management Systems](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Wallapak Tavanapong](https://www.cs.iastate.edu/tavanapo)
+        - Relational, object-oriented, and semi-structured data models and query languages. SQL, ODMG, and XML standards. Database design using entity-relationship model, data dependencies and object definition language. Application development in SQL-like languages and general purpose host languages with application program interfaces. Information integration using data warehouses, mediators and wrappers. Programming Projects.
+
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
     - Object-oriented requirements analysis and systems design. Design notations such as the Unified Modeling Language. Design Patterns. Group design and programming with large programming projects.
 
-* COMS 363: [Introduction to Database Management Systems](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
-    - Relational, object-oriented, and semi-structured data models and query languages. SQL, ODMG, and XML standards. Database design using entity-relationship model, data dependencies and object definition language. Application development in SQL-like languages and general purpose host languages with application program interfaces. Information integration using data warehouses, mediators and wrappers. Programming Projects.
 
-* COMS 113: [Introduction to spreadsheets and Databases](https://catalog.iastate.edu/azcourses/com_s/) - Course taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
+
+* COMS 113: [Introduction to spreadsheets and Databases](https://catalog.iastate.edu/azcourses/com_s/) - Course taught by [Adisak Sukul](https://www.cs.iastate.edu/adisak)
     - Using Microsoft Excel spreadsheets and Microsoft Access databases to input, store, process, manipulate, query, and analyze data for business and industrial applications.
 
 
