@@ -16,6 +16,11 @@ Below are the courses in which i was teaching assistant
 </div> -->
 
 * COMS 319 : [Construction of User Interfaces](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Abraham Aldaco](https://www.cs.iastate.edu/people/abraham-aldaco)
+    - Supervised the class groups on the end to end software development projects.
+    - Assisted students in understanding various concepts of SQL, Spring Boot, Mockito test Framework, CI/CD pipeline
+ Android and IOS application Development.
+    - A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
+
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
     - Supervised the class groups on the end to end software development projects.

@@ -13,9 +13,9 @@ comments: false
 <h4 align="center">-Ray Kurzweil</h4>
 
 ----
-<p>Apart from research, Upgrading the skill which always help to achieve bigger goals. </p>
+<p> Upgrading the skill which always help to achieve bigger aims in life. </p>
 ----
-<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Data Structure and Algorithm Challenge</a></h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/algorithmic-challenge">Data Structure and Algorithm </a></h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
@@ -28,7 +28,7 @@ comments: false
 </table>
 
 ----
-<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Web Development</a></h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Science</a></h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
@@ -41,7 +41,7 @@ comments: false
 </table>
 
 ----
-<h3 align="center"><a href="https://github.com/kundan7kumar/Algorithm_Challenge">Mobile Development</a></h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/statistics-analysis">Statistical Analysis</a></h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
@@ -54,8 +54,7 @@ comments: false
 </table>
 
 ----
-
-<h3 align="center">Devops</h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/statistics-analysis">BlockChain</a></h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
