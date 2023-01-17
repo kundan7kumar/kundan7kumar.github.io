@@ -9,7 +9,7 @@ share: false
 
 Hey All!
 
-I realized myself about life in 2020 and COVID confined my life in the shell. I had lethargy my life from long time
+<!-- I realized myself about life in 2020 and COVID confined my life in the shell. I had lethargy my life from long time
 and this quarantine period made me realized me to break the monotonicity and achieve a greater heights in my life.
 
 Lastly i gave my procrastination , breaking the life spend my Netflix and social media platform.
@@ -20,7 +20,7 @@ As Coming from small place in Bihar, India.
 https://en.wikipedia.org/wiki/Bodh_Gaya
 Finally, I realized A healthy mind and body will
 
-I think social media addiction like facebook, instagram, youtube etc are ruining the life. I limited the use such platform.
+I think social media addiction like facebook, instagram, youtube etc are ruining the life. I limited the use such platform. -->
 
 Sporting Activities:
 ----
