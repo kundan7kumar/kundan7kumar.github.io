@@ -60,9 +60,9 @@ comments: false
         </td>
     </tr>
 
-    <div class="warning" style='padding:0.1em; background-color:#E9D8FD; color:#69337A'>
+    <div class="warning" style='padding:0.1em;  color:#69337A'>
     <span>
-    <p style='margin-top:1em; text-align:center'>
+    <p style='margin-top:1em; text-align:left'>
     <b>On the importance of sentence length</b></p>
     <p style='margin-left:10em;'>
     This sentence has five words. Here are five more words. Five-word sentences are fine. But several together bocome monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It's like a stuck record. The ear demands some variety.<br><br>
