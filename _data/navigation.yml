@@ -7,6 +7,13 @@
   url: /research/
 
 - title: Courses
+  sublinks:
+      - title: abc
+        url: /teaching/
+      - title: DEF
+        url: /teaching/Projects/
+      - title: XYZ
+        url: /teaching/Courses/
   url: /teaching/ugprojects/
 
 - title: Projects
@@ -23,3 +30,11 @@
 
 # - title: Extra-Activites
 #   url: /travel/
+
+
+# https://hikaruyamagishi.com/teaching/
+# https://www.jesseajohnston.net/posts/2022/career-update/
+# https://jayrobwilliams.com/software/
+#
+# https://kundan7kumar.github.io/statistics-analysis/index.html
+# https://kundan7kumar.github.io/data-science/intro.html
