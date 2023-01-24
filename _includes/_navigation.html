@@ -1,14 +1,45 @@
-<div class="navigation-wrapper">
+<!-- <div class="navigation-wrapper">
 	<div class="site-name">
 		<a href="{{ site.url }}/">{{ site.title }}</a>
 	</div><!-- /.site-name -->
-	<div class="top-navigation">
+	<!-- <div class="top-navigation">
+
 		<nav role="navigation" id="site-nav" class="nav">
+
 		    <ul>
 		        {% for link in site.data.navigation %}
 				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
 		    </ul>
+
 		</nav>
 	</div><!-- /.top-navigation -->
-</div><!-- /.navigation-wrapper -->
+<!-- </div><!-- /.navigation-wrapper --> --> --> -->
+
+
+<nav>
+  <ul>
+    {% for nav in site.data.nav %}
+      {% if nav.subcategories != null %}
+        <li>
+          <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }} ▼</a>
+          <ul>
+          {% for subcategory in nav.subcategories %}
+            <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+          {% endfor %}
+          </ul>
+        </li>
+      {% elsif nav.title == page.title %}
+         <li class="active">
+           <a href="{{ nav.url }}">{{ nav.title }}</a>
+         </li>
+      {% else %}
+        <li>
+          <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
+<!-- http://planetjekyll.github.io/snippets/nav-with-data -->
