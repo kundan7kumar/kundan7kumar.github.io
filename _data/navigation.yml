@@ -7,13 +7,16 @@
   url: /research/
 
 - title: Courses
-  sublinks:
+  dropdown:
       - title: abc
         url: /teaching/
+        description: "abc"
       - title: DEF
         url: /teaching/Projects/
+        description: "DEF"
       - title: XYZ
         url: /teaching/Courses/
+        description: "XYZ"
   url: /teaching/ugprojects/
 
 - title: Projects
