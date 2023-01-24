@@ -1,35 +1,53 @@
 # Site navigation links
 
-- title: Home
-  url: /
+# - title: Home
+#   url: /
+#
+# - title: Research
+#   url: /research/
+#
+# - title: Courses
+#   url: /teaching/ugprojects/
+#   sublinks:
+#       - title: abc
+#         url: /teaching/
+#       - title: DEF
+#         url: /teaching/Projects/
+#       - title: XYZ
+#         url: /teaching/Courses/
+#
+#
+# - title: Projects
+#   url: /projects/
+#
+# - title: Blogs
+#   url: /posts/
+#
+# - title: CV
+#   url: /reports/KK_CV.pdf
+#
+# - title: Contact
+#   url: /contact/
 
-- title: Research
-  url: /research/
 
-- title: Courses
-  dropdown:
-      - title: abc
-        url: /teaching/
-        description: "abc"
-      - title: DEF
-        url: /teaching/Projects/
-        description: "DEF"
-      - title: XYZ
-        url: /teaching/Courses/
-        description: "XYZ"
-  url: /teaching/ugprojects/
-
-- title: Projects
-  url: /projects/
-
-- title: Blogs
-  url: /posts/
-
-- title: CV
-  url: /reports/KK_CV.pdf
-
+- title: About
+  url: /about.html
+- title: Team
+  url: /team.html
 - title: Contact
-  url: /contact/
+  url: /contact.html
+- title: Store
+  url: /store.html
+- title: Support
+  url: /support.html
+  sublinks:
+    - title: FAQ
+      url: /faq.html
+    - title: Documentation
+      url: /documentation.html
+    - title: separator
+    - title: Customer Support
+      url: /customer-support.html
 
 # - title: Extra-Activites
 #   url: /travel/
