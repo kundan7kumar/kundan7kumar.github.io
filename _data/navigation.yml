@@ -1,35 +1,35 @@
 # Site navigation links
 
-# - title: Home
-#   url: /
-#
-# - title: Research
-#   url: /research/
-#
-# - title: Courses
-#   dropdown:
-#       - title: abc
-#         url: /teaching/
-#         description: "abc"
-#       - title: DEF
-#         url: /teaching/Projects/
-#         description: "DEF"
-#       - title: XYZ
-#         url: /teaching/Courses/
-#         description: "XYZ"
-#   url: /teaching/ugprojects/
-#
-# - title: Projects
-#   url: /projects/
-#
-# - title: Blogs
-#   url: /posts/
-#
-# - title: CV
-#   url: /reports/KK_CV.pdf
-#
-# - title: Contact
-#   url: /contact/
+- title: Home
+  url: /
+
+- title: Research
+  url: /research/
+
+- title: Courses
+  dropdown:
+      - title: abc
+        url: /teaching/
+        description: "abc"
+      - title: DEF
+        url: /teaching/Projects/
+        description: "DEF"
+      - title: XYZ
+        url: /teaching/Courses/
+        description: "XYZ"
+  url: /teaching/ugprojects/
+
+- title: Projects
+  url: /projects/
+
+- title: Blogs
+  url: /posts/
+
+- title: CV
+  url: /reports/KK_CV.pdf
+
+- title: Contact
+  url: /contact/
 
 # - title: Extra-Activites
 #   url: /travel/
@@ -42,16 +42,3 @@
 # https://kundan7kumar.github.io/statistics-analysis/index.html
 # https://kundan7kumar.github.io/data-science/intro.html
 # https://github.com/ucsb-cs48/ucsb-cs48.github.io
-
-- title: "Home"
-  href: "/"
-
-- title: "News"
-  href: "/news/"
-
-- title: "Snippets"
-  subcategories:
-    - subtitle: "Example1"
-      subhref: "#"
-    - subtitle: "Example2"
-      subhref: "#"
