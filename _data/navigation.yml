@@ -8,7 +8,7 @@
 
 - title: Courses
   url: /teaching/
-  children:
+  sublinks:
       - title: abc
         url: /teaching/
       - title: DEF
