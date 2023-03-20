@@ -4,6 +4,7 @@ title: Courses
 tags: [courses, kundan, kumar, iowa, isu, graduate]
 modified:
 comments: false
+nav_var:2
 ---
 
 Below are the courses in which i was teaching assistant
@@ -16,16 +17,12 @@ Below are the courses in which i was teaching assistant
 </div> -->
 
 * COMS 319 : [Construction of User Interfaces](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Abraham Aldaco](https://www.cs.iastate.edu/people/abraham-aldaco)
-    - Supervised the class groups on the end to end software development projects.
-    - Assisted students in understanding various concepts of SQL, Spring Boot, Mockito test Framework, CI/CD pipeline
- Android and IOS application Development.
-    - A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
-
+    - Creation of
+    - Raspberry Pi
 
 * COMS 309: [Software Development Practices](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Simanta Mitra](https://www.cs.iastate.edu/people/simanta-mitra)
     - Supervised the class groups on the end to end software development projects.
-    - Assisted students in understanding various concepts of SQL, Spring Boot, Mockito test Framework, CI/CD pipeline
-     Android and IOS application Development.
+    - Assisted students in understanding various concepts of SQL, Spring Boot, Mockito test Framework, CI/CD pipeline Android and IOS application Development.
     - A practical introduction to methods for managing software development. Process models, requirements analysis, structured and object-oriented design, coding, testing, maintenance, cost and schedule estimation, metrics. Programming projects.
 
 * COMS 363: [Introduction to Database Management Systems](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Wallapak Tavanapong](https://www.cs.iastate.edu/tavanapo)
@@ -33,8 +30,6 @@ Below are the courses in which i was teaching assistant
 
 * COMS 362: [Object-oriented Analysis and Design](https://catalog.iastate.edu/azcourses/com_s/) - UG Courses taught by [Mathew tan creti](https://www.cs.iastate.edu/people/matthew-tan-creti)
     - Object-oriented requirements analysis and systems design. Design notations such as the Unified Modeling Language. Design Patterns. Group design and programming with large programming projects.
-
-
 
 * COMS 113: [Introduction to spreadsheets and Databases](https://catalog.iastate.edu/azcourses/com_s/) - Course taught by [Adisak Sukul](https://www.cs.iastate.edu/adisak)
     - Using Microsoft Excel spreadsheets and Microsoft Access databases to input, store, process, manipulate, query, and analyze data for business and industrial applications.
