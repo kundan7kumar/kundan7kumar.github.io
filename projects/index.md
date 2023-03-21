@@ -35,7 +35,7 @@ comments: false
 <table class='news-table'>
     <col width="50%">
     <col width="50%">
-    <tr style="height: 500px;">
+    <tr style="height: 100px;">
         <td>
             <div style="border: 1px solid black; padding: 10px;">
                 <strong>[2023]</strong><br>
