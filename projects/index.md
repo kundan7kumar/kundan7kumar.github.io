@@ -33,8 +33,8 @@ comments: false
 
 </table> -->
 <table class='news-table'>
-    <col width="50%">
-    <col width="50%">
+    <col width="45%">
+    <col width="45%">
     <tr style="height: 100px;">
         <td>
             <div style="border: 2px solid black; padding: 15px; height: 100%;">
