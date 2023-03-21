@@ -4,7 +4,6 @@ title: Projects
 tags: [talks, kundan, kumar, iowa, isu, graduate]
 modified:
 comments: false
----
 ----
 
 > Doing real world projects is, I think, the best way to learn and also to engage the world
