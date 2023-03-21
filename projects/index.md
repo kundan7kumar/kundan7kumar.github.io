@@ -32,7 +32,7 @@ comments: false
     </div>
 
 </table> -->
-<!-- <table class='news-table'>
+<table class='news-table'>
     <col width="50%">
     <col width="50%">
     <tr>
@@ -46,8 +46,8 @@ comments: false
             <p>Here is a <a href="https://example.com">link</a> to more information.</p>
         </td>
     </tr>
-</table> -->
-<table class='news-table'>
+</table>
+<!-- <table class='news-table'>
     <col width="50%">
     <col width="50%">
     <tr style="height: 500px;">
@@ -65,7 +65,7 @@ comments: false
             </div>
         </td>
     </tr>
-</table>
+</table> -->
 
 
 ----
