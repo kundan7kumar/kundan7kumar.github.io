@@ -53,7 +53,7 @@ comments: false
 <h3 align="center"><a href="https://github.com/kundan7kumar/statistics-analysis">Statistical Analysis</a></h3>
 <table class='news-table'>
     <col width="15%">
-    <col width="85%">
+    <col width="15%">
     <tr>
         <td valign="top"><strong>[2023]</strong></td>
         <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
@@ -84,10 +84,6 @@ comments: false
         </td>
     </tr>
 
-    <div style="border: 1px solid black; padding: 10px;">
-      <img src="https://example.com/image.png" alt="Image">
-      <p>This is some text that describes the image.</p>
-      <p>Here is a <a href="https://example.com">link</a> to more information.</p>
-    </div>
+
 
 </table>
