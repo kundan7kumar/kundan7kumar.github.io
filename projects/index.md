@@ -35,18 +35,23 @@ comments: false
 <table class='news-table'>
     <col width="50%">
     <col width="50%">
-    <tr>
-        <td style="border: 1px solid black; padding: 10px;">
-            <strong>[2023]</strong><br>
-            Started <a href="https://github.com/kundan7kumar/Algorithm_Challenge">Daily Code for next </a> 100 days, further enhancement of knowledge in the process &#128230;
+    <tr style="height: 500px;">
+        <td>
+            <div style="border: 1px solid black; padding: 10px;">
+                <strong>[2023]</strong><br>
+                Started <a href="https://github.com/kundan7kumar/Algorithm_Challenge">Daily Code for next </a> 100 days, further enhancement of knowledge in the process &#128230;
+            </div>
         </td>
-        <td style="border: 1px solid black; padding: 10px;">
-            <img src="https://example.com/image.png" alt="Image">
-            <p>This is some text that describes the image.</p>
-            <p>Here is a <a href="https://example.com">link</a> to more information.</p>
+        <td>
+            <div style="border: 1px solid black; padding: 10px;">
+                <img src="https://example.com/image.png" alt="Image">
+                <p>This is some text that describes the image.</p>
+                <p>Here is a <a href="https://example.com">link</a> to more information.</p>
+            </div>
         </td>
     </tr>
 </table>
+
 <!-- <table class='news-table'>
     <col width="50%">
     <col width="50%">
