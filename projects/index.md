@@ -37,14 +37,14 @@ comments: false
     <col width="50%">
     <tr style="height: 100px;">
         <td style="margin-right: 20px;">
-            <div style="border: 2px solid black; padding: 15px;">
-            <img src="https://example.com/image.png" alt="Image">
-            <p>This is some text that describes the image.</p>
-            <p>Here is a <a href="https://example.com">link</a> to more information.</p>
+            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
+              <img src="https://example.com/image.png" alt="Image">
+              <p>This is some text that describes the image.</p>
+              <p>Here is a <a href="https://example.com">link</a> to more information.</p>
             </div>
         </td>
         <td>
-            <div style="border: 2px solid black; padding: 15px;">
+            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
                 <img src="https://example.com/image.png" alt="Image">
                 <p>This is some text that describes the image.</p>
                 <p>Here is a <a href="https://example.com">link</a> to more information.</p>
