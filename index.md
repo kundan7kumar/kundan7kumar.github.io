@@ -32,11 +32,15 @@ My primary area of interest is the optimization of the Volt-VAR problem and enha
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr> -->
-    <tr>
+    <!-- <tr>
         <td valign="top"><strong>[Mar 2023]</strong></td>
         <td>Our paper on <a href="">Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application </a> Submitted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87"> IEEE TCST&#127891;2023</a></td>
 
         </td>
+    </tr> -->
+    <tr>
+        <td valign="top"><strong>[Mar 2023]</strong></td>
+        <td>Our paper on <a href="">Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application </a> Submitted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87"> IEEE TCST&#42;2023</a></td>
     </tr>
 
     <tr>
