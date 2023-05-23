@@ -8,9 +8,8 @@ comments: false
 
 <!-- Hey there! -->
 
-I am currently pursuing Ph.D. degree in [Computer Science](https://www.cs.iastate.edu/) & minor in [Statistics](https://www.stat.iastate.edu) at the [Iowa State University](https://www.iastate.edu/) <!--, where I am supervised by [Tichakorn Wongpiromsarn](https://tichakorn.dev/)-->. My interest lies in optimization of Volt-Var problem as well as security in Smart Grid using Reinforcement learning, Graph Neural and Generative Adversarial Network.
-My interest also lies in statistical machine learning, artificial intelligence, Computer Vision and Robotics.
-
+Currently, I am pursuing Ph.D. degree at [Iowa State University](https://www.iastate.edu/), focusing on [Computer Science](https://www.cs.iastate.edu/) and minoring in [Statistics](https://www.stat.iastate.edu). My research is supervised by [Dr. Ravikumar Gelli](https://www.engineering.iastate.edu/people/profile/gelli/).
+My primary area of interest is the optimization of the Volt-VAR problem and enhancing security in Smart Grids through the application of Deep Reinforcement Learning, Graph Neural Networks, and Generative Adversarial Networks. Additionally, I have a keen interest in statistical machine learning, deep learning, computer vision, and robotics.
 
 <h3 align="center">News</h3>
 <table class='news-table'>
@@ -33,11 +32,12 @@ My interest also lies in statistical machine learning, artificial intelligence, 
         <td valign="top"><strong>[Jan 2020]</strong></td>
         <td>One <a href="https://umangsbhatt.github.io/reports/ecai.pdf">paper</a> on concealing model unfairness from explanation methods accepted to <a href="http://ecai2020.eu/">ECAI 2020</a></td>
     </tr> -->
-    <!-- <tr>
-        <td valign="top"><strong>[Jan 2020]</strong></td>
-        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#127891;
+    <tr>
+        <td valign="top"><strong>[Mar 2023]</strong></td>
+        <td>Our paper on <a href="">Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application </a> Submitted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87"> IEEE TCST&#127891;2023</a></td>
+
         </td>
-    </tr> -->
+    </tr>
 
     <tr>
         <td valign="top"><strong>[Aug 2022]</strong></td>
