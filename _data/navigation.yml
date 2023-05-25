@@ -38,7 +38,7 @@
 #   url: /contact.html
 # - title: Store
 #   url: /store.html
-# - title: Support
+- title: Support
   url: /support.html
   sublinks:
     - title: FAQ
