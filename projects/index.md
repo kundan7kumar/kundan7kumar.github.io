@@ -13,25 +13,8 @@ comments: false
 
 <h4 align="center">-Ray Kurzweil</h4>
 
-------
-
+--------------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/algorithmic-challenge">Data Structure and Algorithm </a></h3>
-<!-- <table class='news-table'>
-    <col width="15%">
-    <col width="85%">
-    <tr>
-        <td valign="top"><strong>[2023]</strong></td>
-        <td>Started <a href="https://github.com/kundan7kumar/Algorithm_Challenge">Daily Code for next </a> 100 days, further enhancement of knowledge in the process &#128230;
-        </td>
-    </tr>
-
-    <div style="border: 1px solid black; padding: 10px;">
-      <img src="https://example.com/image.png" alt="Image">
-      <p>This is some text that describes the image.</p>
-      <p>Here is a <a href="https://example.com">link</a> to more information.</p>
-    </div>
-
-</table> -->
 <table class='news-table'>
     <col width="50%">
     <col width="50%">
@@ -43,6 +26,7 @@ comments: false
               <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
             </div>
         </td>
+
         <td>
             <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
                 <img src="https://example.com/image.png" alt="Image">
@@ -52,30 +36,7 @@ comments: false
         </td>
     </tr>
 </table>
-
-
-<!-- <table class='news-table'>
-    <col width="50%">
-    <col width="50%">
-    <tr style="height: 500px;">
-        <td>
-            <div style="border: 1px solid black; padding: 10px; height: 100%;">
-                <strong>[2023]</strong><br>
-                Started <a href="https://github.com/kundan7kumar/Algorithm_Challenge">Daily Code for next </a> 100 days, further enhancement of knowledge in the process &#128230;
-            </div>
-        </td>
-        <td>
-            <div style="border: 1px solid black; padding: 10px; height: 100%;">
-                <img src="https://example.com/image.png" alt="Image">
-                <p>This is some text that describes the image.</p>
-                <p>Here is a <a href="https://example.com">link</a> to more information.</p>
-            </div>
-        </td>
-    </tr>
-</table> -->
-
-
-----
+-----------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Science</a></h3>
 <table class='news-table'>
     <col width="15%">
@@ -153,4 +114,20 @@ comments: false
             </div>
         </td> -->
     </tr>
+
+    <div class="timeline">
+ <div class="container left">
+   <div class="content">
+     <h2>2017</h2>
+     <p>Lorem ipsum..</p>
+   </div>
+ </div>
+ <div class="container right">
+   <div class="content">
+     <h2>2016</h2>
+     <p>Lorem ipsum..</p>
+   </div>
+ </div>
+</div>
+
 </table>
