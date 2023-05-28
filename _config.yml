@@ -4,9 +4,9 @@
 # locale: en_US
 # url: https://kundan7kumar.github.io
 locale                   : "en-US"
-title                    : "Kundan Kumar's Homepage"
+title                    : "Kundan Kumar"
 title_separator          : "-"
-name                     : &name "Haoxin Tu"
+name                     : &name "Kundan Kumar"
 description              : &description "personal description"
 url                      : https://kundan7kumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
