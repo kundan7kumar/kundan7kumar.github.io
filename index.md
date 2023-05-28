@@ -41,49 +41,43 @@ My primary area of interest is the optimization of the Volt-VAR problem and enha
 
 <h3 align="center">Affiliations</h3>
 
-    <table class="affl-pic">
-        <tr>
-            <td>
-                <a href="https://www.iastate.edu/">
-                    <img src="/images/ISU.png" width="100" height="115">
-                </a>
-            </td>
-            <td>
-                <a href="https://www.bitsindri.ac.in/">
-                    <img src="/images/BIT.png" width="100" height="115">
-                </a>
-            </td>
-            <td>
-                <a href="https://www.tcs.com/">
-                    <img src="/images/tcs.png" width="100" height="115">
-                </a>
-            </td>
-        </tr>
-        <tr>
-            <td>Iowa State University</td>
-            <td>BIT Sindri, India</td>
-            <td>Tata Consultancy Services</td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://www.udacity.com/">
-                    <img src="/images/udacity.png" width="100" height="115">
-                </a>
-            </td>
-            <td>
-                <a href="https://www.oxfordml.school/">
-                    <img src="/images/images.png" width="100" height="115">
-                </a>
-            </td>
-            <!-- <td>
-                <a href="https://www.groupon.com/">
-                    <img src="/images/grpn.png">
-                </a>
-            </td> -->
-        </tr>
-        <tr>
-            <td>Udacity</td>
-            <td>OxML Summer School 2022</td>
-            <!-- <td>Groupon<br>Summer 2017</td> -->
-        </tr>
-    </table>
+<table align="center" class='affl-pic'>
+    <tr>
+        <td>
+            <a href="https://www.iastate.edu/">
+            <img src="/images/ISU.png" width="100" height="115"></a>
+        </td>
+        <td>
+            <a href="https://www.bitsindri.ac.in/">
+            <img src="/images/BIT.png" width="100" height="115"></a>
+        </td>
+        <td>
+            <a href="https://www.tcs.com/">
+            <img src="/images/tcs.png" width="100" height="115"></a>
+        </td>
+    <tr>
+     <tr>
+        <td>Iowa State University<br></td>
+        <td>BIT Sindri,India<br></td>
+        <td>Tata Consultancy Services<br></td>
+    </tr>
+    </tr>
+        <td>
+            <a href="https://www.udacity.com/">
+            <img src="/images/udacity.png" width="100" height="115"></a>
+        </td>
+        <td>
+            <a href="https://www.oxfordml.school/">
+            <img src="/images/images.png" width="100" height="115"></a>
+        </td>
+        <!-- <td>
+            <a href="https://www.groupon.com/">
+            <img src="/images/grpn.png"></a>
+        </td> -->
+    </tr>
+    <tr>
+        <td>Udacity<br></td>
+        <td>OxML Summer School 2022<br></td>
+        <!-- <td>Groupon<br>Summer 2017</td> -->
+    </tr>
+</table>
