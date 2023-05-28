@@ -12,13 +12,12 @@
 - title: Courses
   url: /teaching/
   dropdown:
-      - title: abc
-        url: /teaching/
-      - title: DEF
-        url: /teaching/Projects/
-      - title: XYZ
-        url: /teaching/Courses/
-
+    - title: abc
+      url: /teaching/
+    - title: DEF
+      url: /teaching/projects/
+    - title: XYZ
+      url: /teaching/courses/
 
 - title: Projects
   url: /projects/
