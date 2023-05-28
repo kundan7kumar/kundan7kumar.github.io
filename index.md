@@ -70,10 +70,10 @@ My primary area of interest is the optimization of the Volt-VAR problem and enha
             <a href="https://www.oxfordml.school/">
             <img src="/images/images.png" width="100" height="115"></a>
         </td>
-        <td>
+        <!-- <td>
             <a href="https://www.groupon.com/">
             <img src="/images/grpn.png"></a>
-        </td>
+        </td> -->
     </tr>
     <tr>
         <td>Udacity<br></td>
