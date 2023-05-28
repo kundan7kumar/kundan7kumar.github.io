@@ -11,7 +11,7 @@
 
 - title: Courses
   url: /teaching/
-  sublinks:
+  dropdown:
       - title: abc
         url: /teaching/
       - title: DEF
