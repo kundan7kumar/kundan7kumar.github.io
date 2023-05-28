@@ -1,13 +1,13 @@
-### Publications
 
-## Journals Paper
+#### Journals Paper
 
 1. **Kundan Kumar**, RaviKumar Gelli   
 [Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application]()   
 *IEEE Transactions on Computers, 2023.*   
 [<button type="button" class="btn btn-info">Paper</button>]()
 
-## Conferences Paper
+-------------------------------------------------------
+#### Conferences Paper
 
 1. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
 [Pattern Based Multivariate Regression using Deep Learning (PBMR-DP)]()   
