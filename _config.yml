@@ -1,8 +1,17 @@
 # Site wide configuration
 
-title: Kundan Kumar
-locale: en_US
-url: https://kundan7kumar.github.io
+# title: Kundan Kumar
+# locale: en_US
+# url: https://kundan7kumar.github.io
+locale                   : "en-US"
+title                    : "Kundan Kumar's Homepage"
+title_separator          : "-"
+name                     : &name "Haoxin Tu"
+description              : &description "personal description"
+url                      : https://kundan7kumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "kundan7kumar/kundan7kumar.github.io" # changed to false "haoxintu/haoxintu.github.io"
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
