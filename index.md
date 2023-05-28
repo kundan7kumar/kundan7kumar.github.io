@@ -56,6 +56,8 @@ My primary area of interest is the optimization of the Volt-VAR problem and enha
             <img src="/images/tcs.png" width="100" height="115"></a>
         </td>
     <tr>
+    <tr>
+    </tr>
      <tr>
         <td>Iowa State University<br></td>
         <td>BIT Sindri,India<br></td>
