@@ -17,7 +17,7 @@ My primary area of interest is the optimization of the Volt-VAR problem and enha
     <col width="85%">
     <tr>
         <td valign="top"><strong>[Mar 2023]</strong></td>
-        <td>Our paper on <a href="">Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application </a> Submitted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87"> IEEE TCST&#42;2023</a></td>
+        <td>Our paper on <a href="">Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application </a> Submitted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87"> IEEE Smart Grid&#42;2023</a></td>
     </tr>
 
     <tr>
