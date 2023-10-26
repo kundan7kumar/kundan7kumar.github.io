@@ -15,4 +15,4 @@ Reinforcement learning is a sub-field of machine learning that focuses on solvin
 This field is particularly interesting for solving real-world optimization problems that require making a series of interconnected decisions, such as robotics, data center control, and traffic light control. Additionally, reinforcement learning can be viewed as a simulation of animal and human learning processes, making it a potential avenue towards achieving artificial general intelligence.
 
 **Keywords:**
-Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Transfer Learning, Actor-Critic, Software-Development, Volt-VAR Optimization, Gurobi Optimization Solver
+Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Transfer Learning, Actor-Critic, Software-Development, Volt-VAR Optimization, Gurobi Optimization Solver, Explainable AI , constrastive Learning
