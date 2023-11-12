@@ -6,5 +6,5 @@ modified:
 comments: true
 ---
 
-My latest resume: [Here](/reports/KK_CV.pdf)  
-*Updated: February 18, 2020*
+My latest resume: [Here](/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf)  
+*Updated: Nov 12, 2023*
