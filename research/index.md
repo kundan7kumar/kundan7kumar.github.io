@@ -7,6 +7,8 @@ comments: false
 ---
 
 **Research Topic:**
+
+----------------
 My research interests include a variety of topics within the field of artificial intelligence, including deep learning, Reinforcement Learning, Bayesian statistics, and autonomous systems. Specifically, I am interested in the development of self-driving cars, drones, smart grids, and Medical AI. I aim to make model behavior more explainable and increase awareness of predictive uncertainty. Additionally, I am exploring animal and human learning processes to pave the way for achieving artificial general intelligence.
 
 Incorporating Generative Pre-trained Transformer (GPT) models into my research has been a significant development. This approach adds a dimension of natural language processing to reinforcement learning, and the ability of GPT models to understand and generate human-like text is remarkable. This integration can enhance the communication and interpretability of reinforcement learning models, and I am excited about its possibilities.
