@@ -1,11 +1,13 @@
 ### Publications
 
-## Journals Paper
+Please find the publication of my research work. 
+
+<!-- ## Journals Paper
 
 1. **Kundan Kumar**, RaviKumar Gelli   
 [Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application]()   
-*IEEE Transactions on Computers, 2023.*   
-[<button type="button" class="btn btn-info">Paper</button>]()
+*IEEE Transactions on Smart Grid, 2023.*   
+[<button type="button" class="btn btn-info">Paper</button>]() -->
 
 ## Conferences Paper
 
