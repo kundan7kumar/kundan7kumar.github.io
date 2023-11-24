@@ -6,14 +6,14 @@ modified:
 comments: false
 ---
 
-<!-- Display the resume iframe immediately -->
-<iframe src="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" width="100%" height="600px"></iframe>
-
 <!-- Button for downloading the resume -->
-<div style="position: absolute; top: 10px; right: 10px;">
+<div style="display: flex; justify-content: flex-end; margin-bottom: 10px;">
   <a href="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" download="Kundan_Kumar_Resume.pdf">
     <button id="downloadResumeBtn">Download Resume</button>
   </a>
 </div>
+
+<!-- Display the resume iframe immediately -->
+<iframe src="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" width="100%" height="600px"></iframe>
 
 *Updated: Nov 12, 2023*
