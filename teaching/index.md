@@ -47,3 +47,6 @@ I am a Teaching Assistant for the courses for [computer Science](https://cs.iast
 - Covered topics include:
   - Using Microsoft Excel spreadsheets and advanced micros like VLook up erc
   - Microsoft Access databases for input, storage, processing, manipulation, querying, and analyzing data for business applications.
+
+
+  <!-- IMP: https://alshedivat.github.io/al-folio/blog/ -->
