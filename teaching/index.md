@@ -7,10 +7,10 @@ comments: false
 nav_var: 2
 ---
 
-# Courses Taught as Teaching Assistant
+#### Courses Taught as Teaching Assistant
 
 **Iowa State University**
-<!-- [Courses at Iowa State University](https://cs.iastate.edu/) -->
+[Courses at Iowa State University](https://cs.iastate.edu/)
 <hr style="border: 1px solid gray">
 
 ### COMS 319: Construction of User Interfaces
@@ -47,21 +47,3 @@ nav_var: 2
 - Course taught by [Adisak Sukul](https://www.cs.iastate.edu/adisak)
 - Covered topics include:
   - Using Microsoft Excel spreadsheets and Microsoft Access databases for input, storage, processing, manipulation, querying, and analyzing data for business and industrial applications.
-
-<!-- Uncomment and modify the following sections if you have taught statistics courses -->
-<!-- 
-<hr style="border:1px solid gray">
-## Statistics
-* STAT 571: [Introduction to Experimental Design](https://stat585-at-isu.github.io/) - Taught by [Heike Hofmann](https://www.stat.iastate.edu/people/heike-hofmann)
-    - Independently supervised the class of 30 students and graded projects, term exams, and quizzes.
-    - Assisted students in understanding various concepts of SQL, XML, and E-R model
-* STAT 587: [Statistical Methods for Research Workers](https://catalog.iastate.edu/azcourses/stat/) - Taught by [Chong Wang](https://www.stat.iastate.edu/people/chong-wang)
-    - Independently supervised the class of 30 students and graded projects, term exams, and quizzes.
-    - Assisted students in understanding various concepts of SQL, XML, and E-R model
-* STAT 430/583: [Empirical Methods for the Computational Sciences](https://catalog.iastate.edu/azcourses/stat/) - Taught by [Kris De Brabanter](https://www.stat.iastate.edu/people/kris-de-brabanter)
-    - Independently supervised the class of 30 students and graded projects, term exams, and quizzes.
--->
-
-<!-- 
-<hr style="border:1px solid gray">
-**Iowa State University (2020)** [Teaching assistant at Iowa State University](https://cs.iastate.edu/) -->

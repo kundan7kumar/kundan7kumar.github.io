@@ -3,7 +3,7 @@ layout: page
 title: Resume
 tags: [about, Jekyll, theme, responsive]
 modified: 
-comments: true
+comments: false
 ---
 
 <button id="downloadResumeBtn">Download Resume</button>
