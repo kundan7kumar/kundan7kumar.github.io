@@ -61,15 +61,6 @@ comments: false
 </table>
 ------------------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/statistics-analysis">Statistics</a></h3>
-<!-- <table class='news-table'>
-    <col width="15%">
-    <col width="85%">
-    <tr>
-        <td valign="top"><strong>[2023]</strong></td>
-        <td>Joined <a href="https://cs.iastate.edu/">Iowa State University </a> as a Ph.D. Student, moving further enhancement of knowledge in the process &#128230;
-        </td>
-    </tr>
-</table> -->
 
 <table class='news-table'>
     <col width="100%">

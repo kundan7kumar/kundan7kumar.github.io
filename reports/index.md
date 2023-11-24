@@ -14,6 +14,6 @@ comments: false
 </div>
 
 <!-- Display the resume iframe immediately -->
-<iframe src="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" width="100%" height="600px"></iframe>
+<iframe src="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" width="100%" height="700px"></iframe>
 
 *Updated: Nov 12, 2023*
