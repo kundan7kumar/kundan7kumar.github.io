@@ -6,17 +6,43 @@ modified:
 comments: false
 ---
 
-My research interests span across the fields of machine learning, Bayesian statistics, and artificial intelligence, with a particular focus on autonomous systems such as self-driving cars, drones, smart grids and Medical AI. My work aims to enhance the explainability of model behavior and increase awareness of predictive uncertainty.
-
 **Research Topic:**
-Reinforcement learning, a sub-field of machine learning, addresses sequential decision problems through trial-and-error. It involves an agent interacting with an unknown environment, learning from its experiences to maximize a reward function. The agent builds its own database online based on the decisions it makes. Reinforcement learning is vital for real-world optimization problems, including robotics, data center control, and traffic light control. It also simulates animal and human learning processes, presenting a potential path towards achieving artificial general intelligence.
+My research interests include a variety of topics within the field of artificial intelligence, including deep learning, Reinforcement Learning, Bayesian statistics, and autonomous systems. Specifically, I am interested in the development of self-driving cars, drones, smart grids, and Medical AI. I aim to make model behavior more explainable and increase awareness of predictive uncertainty. Additionally, I am exploring animal and human learning processes to pave the way for achieving artificial general intelligence.
 
-In addition to traditional approaches, my research incorporates Generative Pre-trained Transformer (GPT) models. GPT, with its ability to understand and generate human-like text, adds a dimension of natural language processing to reinforcement learning. This integration aims to enhance the communication and interpretability of reinforcement learning models.
+Incorporating Generative Pre-trained Transformer (GPT) models into my research has been a significant development. This approach adds a dimension of natural language processing to reinforcement learning, and the ability of GPT models to understand and generate human-like text is remarkable. This integration can enhance the communication and interpretability of reinforcement learning models, and I am excited about its possibilities.
 
 **Keywords:**
 Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Transfer Learning, Actor-Critic, Software Development, Smart Grids, Gurobi Optimization Solver, Explainable AI, Contrastive Learning, GPT
 
 ----------------
+### Publications
 
-Github Link: [Deep Reinforcment Leaning](https://github.com/kundan7kumar/DRL-Research) 
+Please find the publication of my research work. 
+
+<!-- ## Journals Paper
+
+1. **Kundan Kumar**, RaviKumar Gelli   
+[Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application]()   
+*IEEE Transactions on Smart Grid, 2023.*   
+[<button type="button" class="btn btn-info">Paper</button>]() -->
+
+#### Conferences Paper
+
+1. **Kundan Kumar**, Gelli RaviKumar    
+[Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids (ISGT)]()   
+*Conference on Innovative Smart Grid Technologies(ISGT), 2024.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
+
+2. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
+[Pattern Based Multivariate Regression using Deep Learning (PBMR-DP)]()   
+*International Conference on Machine Learning (ICMLA), 2022.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
+
+3. Kin Gwn Lore, Nicholas Sweet, **Kundan Kumar**,Nisar Ahmed, Soumik Sarkar    
+[Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering]()   
+*International Conference on Cyber-Physical Systems (ICCPS), 2016.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1512.07592)
+
+
+
 
