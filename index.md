@@ -56,15 +56,15 @@ My research combines computer science and statistics to optimize and secure Smar
         </td>
         <td>
             <a href="https://www.tcs.com/">
-            <img src="/images/tcs.png" width="90" height="110"></a>
+            <img src="/images/tcs.png" width="95" height="110"></a>
         </td>
     <tr>
     <tr>
     </tr>
      <tr>
         <td>Iowa State University<br></td>
-        <td>BIT Sindri,India<br></td>
-        <td>Tata Consultancy Services<br></td>
+        <td>BIT Sindri, India<br></td>
+        <td>TCS, India<br></td>
     </tr>
     </tr>
         <td>
@@ -82,7 +82,7 @@ My research combines computer science and statistics to optimize and secure Smar
     </tr>
     <tr>
         <td>Udacity<br></td>
-        <td>OxML Summer School 2022<br></td>
+        <td>OxML Summer School<br></td>
         <!-- <td>Groupon<br>Summer 2017</td> -->
     </tr>
 </table>
