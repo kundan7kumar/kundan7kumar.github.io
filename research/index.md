@@ -18,17 +18,15 @@ Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Tr
 
 ----------------
 <div style="text-align:center"><h3>Publications</h3></div>
-<!-- ### Publications -->
-
-Please find the publication of my research work. 
+<!-- ### Publications --
 
 ----------------
 #### Journals Paper
 
-<!-- 1. **Kundan Kumar**, RaviKumar Gelli   
+1. **Kundan Kumar**, RaviKumar Gelli   
 [Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application]()   
 *IEEE Transactions on Smart Grid, 2023.*   
-[<button type="button" class="btn btn-info">Paper</button>]() -->
+[<button type="button" class="btn btn-info">Paper</button>]()
 
 -----------------
 #### Conferences Paper
