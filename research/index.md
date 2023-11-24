@@ -14,13 +14,11 @@ My research interests include a variety of topics within the field of artificial
 Incorporating Generative Pre-trained Transformer (GPT) models into my research has been a significant development. This approach adds a dimension of natural language processing to reinforcement learning, and the ability of GPT models to understand and generate human-like text is remarkable. This integration can enhance the communication and interpretability of reinforcement learning models, and I am excited about its possibilities.
 
 **Keywords:**
-Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Transfer Learning, Actor-Critic, Software Development, Smart Grids, Gurobi Optimization Solver, Explainable AI, Contrastive Learning, GPT
+Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Transfer Learning, Actor-Critic, Software Development, Smart Grids, Gurobi Optimization Solver, Explainable AI, Contrastive Learning, GPT.
 
 ----------------
 <div style="text-align:center"><h3>Publications</h3></div>
-<!-- ### Publications --
 
-----------------
 #### Journals Paper
 
 1. **Kundan Kumar**, RaviKumar Gelli   
