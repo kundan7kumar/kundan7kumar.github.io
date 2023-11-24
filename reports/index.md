@@ -14,11 +14,4 @@ comments: false
   <button id="downloadResumeBtn">Download Resume</button>
 </a>
 
-<!-- Script to handle the button click (optional if you want to keep the button for downloading) -->
-<script>
-  document.getElementById("downloadResumeBtn").addEventListener("click", function() {
-    document.getElementById("resumeModal").style.display = "block";
-  });
-</script>
-
 *Updated: Nov 12, 2023*
