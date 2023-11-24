@@ -10,8 +10,10 @@ comments: false
 <iframe src="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" width="100%" height="600px"></iframe>
 
 <!-- Button for downloading the resume -->
-<a href="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" download="Kundan_Kumar_Resume.pdf">
-  <button id="downloadResumeBtn">Download Resume</button>
-</a>
+<div style="position: absolute; top: 10px; right: 10px;">
+  <a href="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" download="Kundan_Kumar_Resume.pdf">
+    <button id="downloadResumeBtn">Download Resume</button>
+  </a>
+</div>
 
 *Updated: Nov 12, 2023*
