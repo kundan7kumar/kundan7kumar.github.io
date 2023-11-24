@@ -6,5 +6,5 @@ modified:
 comments: true
 ---
 
-My latest resume: [Here](/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf)  
+My latest resume: [Here](/resume/Kundan_Kumar_Fall2023_Resume.docx.pdf)  
 *Updated: Nov 12, 2023*
