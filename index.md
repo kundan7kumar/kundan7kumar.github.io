@@ -14,14 +14,14 @@ In addition to my work on Smart Grids, I am deeply interested in statistical mac
 
 My research combines computer science and statistics to optimize and secure Smart Grids. I'm passionate about advancing AI and machine learning for practical applications.
 
-a
+---------------------------
 <h3 align="center">News</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Nov 2023]</strong></td>
-        <td>Our paper on <a href="">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a>  has been accepted <a href="https://ieee-isgt.org/"> IEEE Conference on Innovative Smart Grid Technologies (ISGT)&#42;2024</a></td>
+        <td valign="top"><strong>[Mar 2023]</strong></td>
+        <td>Our paper on <a href="">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a>  has been accepted <a href="https://ieee-isgt.org/"> IEEE Smart Grid&#42;2024</a></td>
     </tr>
 
     <tr>
@@ -40,8 +40,7 @@ a
         <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
     </tr>
 </table>
-
-----
+---------------------------
 
 <h3 align="center">Affiliations</h3>
 
@@ -57,7 +56,7 @@ a
         </td>
         <td>
             <a href="https://www.tcs.com/">
-            <img src="/images/tcs.png" width="200" height="230"></a>
+            <img src="/images/tcs.png" width="90" height="110"></a>
         </td>
     <tr>
     <tr>
