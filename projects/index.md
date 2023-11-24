@@ -37,7 +37,7 @@ comments: false
     </tr>
 </table>
 -----------------------------------------------------------
-<h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Structure and Algorithm </a></h3>
+<h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Science </a></h3>
 <table class='news-table'>
     <col width="50%">
     <col width="50%">
