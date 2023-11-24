@@ -6,7 +6,7 @@ modified:
 comments: false
 ---
 
-**Research Topic:**
+<!-- **Research** -->
 
 ----------------
 My research interests include a variety of topics within the field of artificial intelligence, including deep learning, Reinforcement Learning, Bayesian statistics, and autonomous systems. Specifically, I am interested in the development of self-driving cars, drones, smart grids, and Medical AI. I aim to make model behavior more explainable and increase awareness of predictive uncertainty. Additionally, I am exploring animal and human learning processes to pave the way for achieving artificial general intelligence.
@@ -21,13 +21,15 @@ Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Tr
 
 Please find the publication of my research work. 
 
-<!-- ## Journals Paper
+----------------
+#### Journals Paper
 
-1. **Kundan Kumar**, RaviKumar Gelli   
+<!-- 1. **Kundan Kumar**, RaviKumar Gelli   
 [Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application]()   
 *IEEE Transactions on Smart Grid, 2023.*   
 [<button type="button" class="btn btn-info">Paper</button>]() -->
 
+-----------------
 #### Conferences Paper
 
 1. **Kundan Kumar**, Gelli RaviKumar    
