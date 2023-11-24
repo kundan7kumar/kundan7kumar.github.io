@@ -8,16 +8,20 @@ comments: false
 
 <!-- Hey there! -->
 
-Currently, I am pursuing Ph.D. degree at [Iowa State University](https://www.iastate.edu/), focusing on [Computer Science](https://www.cs.iastate.edu/) and minoring in [Statistics](https://www.stat.iastate.edu). My research is supervised by [Dr. Ravikumar Gelli](https://www.engineering.iastate.edu/people/profile/gelli/).
-My primary area of interest is the optimization of the Volt-VAR problem and enhancing security in Smart Grids through the application of Deep Reinforcement Learning, Graph Neural Networks, and Generative Adversarial Networks. Additionally, I have a keen interest in statistical machine learning, deep learning, computer vision, and robotics.
+I am pursuing a Ph.D. in [Computer Science](https://www.cs.iastate.edu/) with a minor in [Statistics](https://www.stat.iastate.edu) at [Iowa State University](https://www.iastate.edu/). Under the guidance of [Dr. Ravikumar Gelli](https://www.engineering.iastate.edu/people/profile/gelli/), my research primarily revolves around optimizing Smart Grids. I am particularly focused on enhancing the security of Smart Grids through the application of cutting-edge techniques such as Deep Reinforcement Learning, Graph Neural Networks, and Generative Adversarial Networks (GANs). My research aims to contribute to the development of robust and efficient systems for Smart Grids.
 
+In addition to my work on Smart Grids, I am deeply interested in statistical machine learning, deep learning, computer vision, and robotics. My research extends to exploring the applications of GPT (Generative Pre-trained Transformer) models, a line of research that I find particularly intriguing. Investigating the capabilities and potential of GPT models in the context of Smart Grids and related technologies is a significant aspect of my research agenda.
+
+My research combines computer science and statistics to optimize and secure Smart Grids. I'm passionate about advancing AI and machine learning for practical applications.
+
+a
 <h3 align="center">News</h3>
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Mar 2023]</strong></td>
-        <td>Our paper on <a href="">Physics-based Deep Reinforcement Learning for Grid-Resilient Volt-VAR Control Application </a> Submitted in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=87"> IEEE Smart Grid&#42;2023</a></td>
+        <td valign="top"><strong>[Nov 2023]</strong></td>
+        <td>Our paper on <a href="">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a>  has been accepted <a href="https://ieee-isgt.org/"> IEEE Conference on Innovative Smart Grid Technologies (ISGT)&#42;2024</a></td>
     </tr>
 
     <tr>
@@ -53,7 +57,7 @@ My primary area of interest is the optimization of the Volt-VAR problem and enha
         </td>
         <td>
             <a href="https://www.tcs.com/">
-            <img src="/images/tcs.png" width="100" height="115"></a>
+            <img src="/images/tcs.png" width="200" height="230"></a>
         </td>
     <tr>
     <tr>
