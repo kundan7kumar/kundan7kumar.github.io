@@ -17,7 +17,8 @@ Incorporating Generative Pre-trained Transformer (GPT) models into my research h
 Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Transfer Learning, Actor-Critic, Software Development, Smart Grids, Gurobi Optimization Solver, Explainable AI, Contrastive Learning, GPT
 
 ----------------
-### Publications
+<div style="text-align:center"><h3>Publications</h3></div>
+<!-- ### Publications -->
 
 Please find the publication of my research work. 
 
