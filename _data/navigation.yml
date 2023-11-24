@@ -14,20 +14,9 @@
 
 - title: Projects
   url: /projects/
-  sublinks:
-    - title: Project 1
-      url: /projects/project1/
-    - title: Project 2
-      url: /projects/project2/
 
 - title: Blogs
   url: /blog/
-  sublinks:
-    - title: Blog Post 1
-      url: /blog/post1/
-    - title: Blog Post 2
-      url: /blog/post2/
-
 
 - title: CV
   url: /reports/
