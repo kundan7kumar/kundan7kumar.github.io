@@ -102,8 +102,8 @@ comments: false
             <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
                 <img src="https://example.com/image.png" alt="Image">
                 <p>Algorithm Coding & Notes</p>
-                </div>
-                <p style="position: absolute; bottom: 15px; right: 15px;"><a class="more-link" href="https://kundan7kumar.github.io/statistics-analysis/" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+            </div>
         </td>
     </tr>
 </table>
