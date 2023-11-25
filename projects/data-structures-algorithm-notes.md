@@ -10,8 +10,7 @@ Independent living is considered an essential part of society, but activities of
 
 ### OpenCv
 ![Screenshot1](/images/projects/output_30_0.png)
-<img src="/images/projects/output_31_0.png" alt="Screenshot4" width="400">
-<!-- ![Screenshot2](/images/projects/output_31_0.png) -->
+![Screenshot2](/images/projects/output_31_0.png)
 
 
 
@@ -19,7 +18,8 @@ Independent living is considered an essential part of society, but activities of
 
 - Model Prediction after ResNet18 Model
 
-![Screenshot3](/images/projects/output_65_0.png)
+<!-- ![Screenshot3](/images/projects/output_65_0.png) -->
+<img src="/images/projects/output_65_0.png" alt="Screenshot4" width="400">
 
 - Predicted Different Fruits in different lighting Condition
 
