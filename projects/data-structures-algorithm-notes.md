@@ -9,8 +9,8 @@ Independent living is considered an essential part of society, but activities of
 ## Results
 
 ### OpenCv
-![Screenshot1](HCI575_Final_Fruit_detection/output_30_0.png)
-![Screenshot2](HCI575_Final_Fruit_detection/output_31_0.png)
+![Screenshot1](/images/projects/output_30_0.png)
+![Screenshot2](/images/projects/output_31_0.png)
 
 
 
@@ -18,17 +18,16 @@ Independent living is considered an essential part of society, but activities of
 
 - Model Prediction after ResNet18 Model
 
-![Screenshot3](HCI575_Final_Fruit_detection/output_65_0.png)
+![Screenshot3](/images/projects/output_65_0.png)
 
 - Predicted Different Fruits in different lighting Condition
 
-![Screenshot4](HCI575_Final_Fruit_detection/output_66_0.png)
+![Screenshot4](/images/projects/output_66_0.png)
 
 
 
 ## Project Files
 
-- [Project Files](https://iowastate-my.sharepoint.com/:f:/g/personal/kkumar_iastate_edu/Eq61Rih_bmlEkwc34VHP8JUB0adcIpgYh0i1CyHgMl37eQ?e=EM743W)
 - [iPython Notebook](https://github.com/kundan7kumar/Fruit-Classification/blob/main/HCI575_Final_Fruit_detection.ipynb)
 - [Project Code Description](https://kundan7kumar.github.io/Fruit-Classification/HCI575_Final_Fruit_detection/HCI575_Final_Fruit_detection.html)
 
