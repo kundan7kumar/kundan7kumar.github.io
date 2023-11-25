@@ -22,7 +22,7 @@ Independent living is considered an essential part of society, but activities of
 
 - Predicted Different Fruits in different lighting Condition
 
-![Screenshot4](/images/projects/output_66_0.png)
+<img src="/images/projects/output_66_0.png" alt="Screenshot4" width="400">
 
 
 
