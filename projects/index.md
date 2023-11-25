@@ -115,7 +115,7 @@ comments: false
     <tr style="height: 100px;">
         <td style="margin-right: 20px; position: relative;">
             <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
-                <img src="/images/statistics.png" alt="Image" style="width: 550px; height: 90px;">
+                <!-- <img src="/images/statistics.png" alt="Image" style="width: 550px; height: 90px;"> -->
                 <p>Statistical analysis is an essential tool for looking to analyze data and help understand, interpret data and draw meaningful conclusions from the findings. The statistical analysis notes include probability theory, hypothesis testing, regression analysis, statistical modeling, and data visualization. Please find the GitHub link for my Notes.</p>
             </div>
             <p style="position: absolute; bottom: 15px; right: 15px;"><a class="more-link" href="https://kundan7kumar.github.io/statistics-analysis/" target="_blank"><i class="fa fa-github"></i>Github</a></p>
