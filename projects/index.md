@@ -50,7 +50,16 @@ comments: false
             </a>
         </td>
     </tr>
+    <!-- Second Set of Divs -->
+    <tr style="height: 150px;">
+        <!-- Add similar code for second set of divs -->
+    </tr>
+    <!-- Third Set of Divs -->
+    <tr style="height: 150px;">
+        <!-- Add similar code for third set of divs -->
+    </tr>
 </table>
+
 
 -----------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Science </a></h3>
