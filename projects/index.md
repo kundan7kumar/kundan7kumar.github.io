@@ -111,7 +111,7 @@ comments: false
 <h3 align="center"><a href="https://kundan7kumar.github.io/statistics-analysis/">Statistics</a></h3>
 
 <table class='news-table'>
-    <col width="50%">
+    <col width="50%" align="center">
     <tr style="height: 100px;">
         <td style="margin-right: 20px;">
             <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
