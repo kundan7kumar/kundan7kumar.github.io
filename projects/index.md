@@ -23,7 +23,7 @@ comments: false
         <td style="margin-right: 20px;">
             <a href="/projects/fruit-classification">
                 <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
-                    <img src="/images/projects/output_30_0.png" alt="Image">
+                    <img src="/images/projects/output_30_0.png" alt="Image" width = "100">
                     <p>Fruit Classification</p>
                     <p><a class="more-link" href="https://github.com/kundan7kumar/Fruit-Classification" target="_blank"><i class="fa fa-github"></i>Github</a></p>
                 </div>
