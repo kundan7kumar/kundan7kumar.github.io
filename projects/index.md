@@ -113,14 +113,12 @@ comments: false
 <table class='news-table' style="margin: 0 auto; width: 70%;">
     <col width="90%">
     <tr style="height: 100px;">
-        <td style="margin-right: 20px;">
+        <td style="margin-right: 20px; position: relative;">
             <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
-                <img src="/images/statistics.png" alt="Image" style="width: 400px; height: 120px;">
+                <img src="/images/statistics.png" alt="Image" style="width: 400px; height: 90px;">
                 <p>Statistical Analysis Notes</p>
-                <!-- <p><a class="more-link" href="https://kundan7kumar.github.io/statistics-analysis/" target="_blank"><i class="fa fa-github"></i>Github</a></p> -->
-                 <p style="position: absolute; bottom: 5px; right: 5px;"><a class="more-link" href="https://kundan7kumar.github.io/statistics-analysis/" target="_blank"><i class="fa fa-github"></i>Github</a></p>
             </div>
+            <p style="position: absolute; bottom: 5px; right: 5px;"><a class="more-link" href="https://kundan7kumar.github.io/statistics-analysis/" target="_blank"><i class="fa fa-github"></i>Github</a></p>
         </td>
     </tr>
 </table>
-
