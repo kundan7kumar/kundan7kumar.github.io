@@ -21,7 +21,7 @@ Please find the publication of my research work.
 *International Conference on Machine Learning (ICMLA), 2022.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
 
-3. Kin Gwn Lore, Nicholas Sweet, **Kundan Kumar**,Nisar Ahmed, Soumik Sarkar    
+3. Kin Gwn Lore, Nicholas Sweet, **Kundan Kumar**, N Ahmed, S Sarkar    
 [Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering]()   
 *International Conference on Cyber-Physical Systems (ICCPS), 2016.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1512.07592)
