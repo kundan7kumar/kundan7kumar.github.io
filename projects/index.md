@@ -52,15 +52,69 @@ comments: false
     </tr>
     <!-- Second Set of Divs -->
     <tr style="height: 150px;">
-        <!-- Add similar code for second set of divs -->
+        <td style="margin-right: 20px;">
+            <a href="/projects/second-project">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Second Project</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/second-project" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
+        </td>
+
+        <td style="margin-right: 20px;">
+            <a href="/projects/third-project">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Third Project</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/third-project" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
+        </td>
+
+        <td>
+            <a href="/projects/fourth-project">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Fourth Project</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/fourth-project" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
+        </td>
     </tr>
     <!-- Third Set of Divs -->
     <tr style="height: 150px;">
-        <!-- Add similar code for third set of divs -->
+        <td style="margin-right: 20px;">
+            <a href="/projects/fifth-project">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Fifth Project</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/fifth-project" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
+        </td>
+
+        <td style="margin-right: 20px;">
+            <a href="/projects/sixth-project">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Sixth Project</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/sixth-project" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
+        </td>
+
+        <td>
+            <a href="/projects/seventh-project">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Seventh Project</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/seventh-project" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
+        </td>
     </tr>
 </table>
-
-
 -----------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Science </a></h3>
 <table class='news-table'>
