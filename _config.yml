@@ -88,7 +88,7 @@ locale: en_US
 url: "https://kundan7kumar.github.io"
 
 # Jekyll configuration
-permalink: /:categories/:title/
+permalink: /:year/:month/:title/
 markdown: kramdown
 highlighter: rouge
 sass:
