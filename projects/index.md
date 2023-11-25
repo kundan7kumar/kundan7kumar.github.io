@@ -110,23 +110,18 @@ comments: false
 ------------------------------------------------------------------
 <h3 align="center"><a href="https://kundan7kumar.github.io/statistics-analysis/">Statistics</a></h3>
 
-<table class='news-table'>
-    <col width="50%" align="center">
+<table class='news-table' style="margin: 0 auto; width: 50%;">
+    <col width="50%">
     <tr style="height: 100px;">
-        <td style="margin-right: 20px;">
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
-            <img src="/images/statistics.png" alt="Image" style="width: 400px; height: 90px;">
-              <p>Statistical Analysis Notes</p>
-              <p><a class="more-link" href="https://github.com/kundan7kumar/statistics-analysis" target="_blank"><i class="fa fa-github"></i>Github</a></p>
-            </div>
-        </td>
-        <!-- <td>
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
-                <img src="https://example.com/image.png" alt="Image">
-                <p>Data-Structures and Algorithm Coding</p>
+        <td style="margin-right: 20px; text-align: center;">
+            <div style="border: 2px solid black; padding: 15px; border-radius:5px; display: inline-block;">
+                <!-- Add style to set width and height of the image -->
+                <img src="/images/statistics.png" alt="Image" style="width: 50px; height: 50px; display: block; margin: 0 auto;">
+                <p>Statistical Analysis Notes</p>
                 <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
             </div>
-        </td> -->
+        </td>
+        <!-- Add more columns with similar structure for additional images -->
     </tr>
-
 </table>
+
