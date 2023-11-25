@@ -8,7 +8,7 @@ comments: false
 
 ------
 
-> Doing real world projects is, I think, the best way to learn and also to engage the world
+> Doing real-world projects is, I think, the best way to learn and also to engage the world
 > and find out what the world is all about.
 
 <h4 align="center">-Ray Kurzweil</h4>
@@ -21,27 +21,33 @@ comments: false
     <col width="33%">
     <tr style="height: 150px;">
         <td style="margin-right: 20px;">
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
-              <img src="https://example.com/image.png" alt="Image">
-              <p>Data-Structures and Algorithm Notes</p>
-              <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
-            </div>
+            <a href="/projects/data-structures-algorithm-notes">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Data-Structures and Algorithm Notes</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
         </td>
 
         <td style="margin-right: 20px;">
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
-                <img src="https://example.com/image.png" alt="Image">
-                <p>Data-Structures and Algorithm Coding</p>
-                <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
-            </div>
+            <a href="/projects/data-structures-algorithm-coding">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Data-Structures and Algorithm Coding</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
         </td>
 
         <td>
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
-                <img src="https://example.com/image.png" alt="Image">
-                <p>Data-Structures and Algorithm Coding</p>
-                <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
-            </div>
+            <a href="/projects/data-structures-algorithm-coding">
+                <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 220px;">
+                    <img src="https://example.com/image.png" alt="Image">
+                    <p>Data-Structures and Algorithm Coding</p>
+                    <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+                </div>
+            </a>
         </td>
     </tr>
 </table>
