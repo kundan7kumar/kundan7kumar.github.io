@@ -16,19 +16,28 @@ comments: false
 --------------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/algorithmic-challenge">Data Structure and Algorithm </a></h3>
 <table class='news-table'>
-    <col width="50%">
-    <col width="50%">
-    <tr style="height: 100px;">
+    <col width="33%">
+    <col width="33%">
+    <col width="33%">
+    <tr style="height: 150px;">
         <td style="margin-right: 20px;">
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
+            <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 100px;">
               <img src="https://example.com/image.png" alt="Image">
               <p>Data-Structures and Algorithm Notes</p>
               <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
             </div>
         </td>
 
+        <td style="margin-right: 20px;">
+            <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 100px;">
+                <img src="https://example.com/image.png" alt="Image">
+                <p>Data-Structures and Algorithm Coding</p>
+                <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
+            </div>
+        </td>
+
         <td>
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
+            <div style="border: 2px solid black; padding: 15px; border-radius:5px; height: 200px; width: 100px;">
                 <img src="https://example.com/image.png" alt="Image">
                 <p>Data-Structures and Algorithm Coding</p>
                 <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
@@ -36,6 +45,7 @@ comments: false
         </td>
     </tr>
 </table>
+
 -----------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/data-science">Data Science </a></h3>
 <table class='news-table'>

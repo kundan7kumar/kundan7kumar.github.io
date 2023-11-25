@@ -88,6 +88,7 @@ locale: en_US
 url: "https://kundan7kumar.github.io"
 
 # Jekyll configuration
+# permalink: /:categories/:title/
 permalink: /posts/:year/:month/:day/:title/
 markdown: kramdown
 highlighter: rouge
@@ -131,13 +132,13 @@ owner:
 
   twitter: kundan7kumar #username
   facebook: #username
-  google:
-    plus: ""
-    analytics: ""
-    verify: ""
-    ad-client: ""
-    ad-slot: ""
-  bing-verify: ""
+  # google:
+  #   plus: ""
+  #   analytics: ""
+  #   verify: ""
+  #   ad-client: ""
+  #   ad-slot: ""
+  # bing-verify: ""
   googlescholar: "https://scholar.google.com/citations?user=1zDpIJkAAAAJ&hl=en&authuser=2"
   github: kundan7kumar
   stackoverflow: #123456/username   # from a "http://stackoverflow.com/users/123456/username" link
