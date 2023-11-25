@@ -89,7 +89,7 @@ comments: false
 <table class='news-table'>
     <col width="50%">
     <col width="50%">
-    <tr style="height: 100px;">
+    <tr style="height: 200px;">
         <td style="margin-right: 20px;">
             <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
               <img src="https://example.com/image.png" alt="Image">
