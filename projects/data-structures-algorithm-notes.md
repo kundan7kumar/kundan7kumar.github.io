@@ -36,5 +36,5 @@ Independent living is considered an essential part of society, but activities of
 
 ## Project Navigation
 
-Code : [Fruit Classification Code](HCI575_Final_Fruit_detection/HCI575_Final_Fruit_detection.md)
+Code : [Fruit Classification Code](https://github.com/kundan7kumar/Fruit-Classification/tree/main)
 
