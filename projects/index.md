@@ -11,7 +11,7 @@ comments: false
 > Doing real-world projects is, I think, the best way to learn and also to engage the world
 > and find out what the world is all about.
 
-<h4 align="center">-Ray Kurzweil</h4>
+<h4 align="right">-Ray Kurzweil</h4>
 
 --------------------------------------------------------------
 <h3 align="center"><a href="https://github.com/kundan7kumar/datascience-blog"> Data Science</a></h3>
