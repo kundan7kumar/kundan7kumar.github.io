@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Kundan Kumar
+title: My Blog
 locale: en_US
-url: https://kundan7kumar.github.io
+url: "https://kundan7kumar.github.io"
 # Jekyll configuration
 
 permalink:   /:categories/:title/
