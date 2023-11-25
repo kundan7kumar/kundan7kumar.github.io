@@ -108,7 +108,7 @@ comments: false
     </tr>
 </table>
 ------------------------------------------------------------------
-<h3 align="center"><a href="https://github.com/kundan7kumar/statistics-analysis">Statistics</a></h3>
+<h3 align="center"><a href="https://kundan7kumar.github.io/statistics-analysis/">Statistics</a></h3>
 
 <table class='news-table'>
     <col width="100%">
@@ -121,13 +121,5 @@ comments: false
               <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
             </div>
         </td>
-        <!-- <td>
-            <div style="border: 2px solid black; padding: 15px; border-radius:5px;">
-                <img src="https://example.com/image.png" alt="Image">
-                <p>Data-Structures and Algorithm Coding</p>
-                <p><a class="more-link" href="https://github.com/kundan7kumar/Deep-Learning/tree/master/Project/language-translation" target="_blank"><i class="fa fa-github"></i>Github</a></p>
-            </div>
-        </td> -->
-    </tr>
 
 </table>
