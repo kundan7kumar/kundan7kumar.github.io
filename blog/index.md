@@ -27,7 +27,7 @@ permalink: /blog/
 </style>
 
 {% for category in site.categories %}
-  <div class="category">
+  <div class="category" align="right">
     <h3>{{ category[0] }}</h3>
     <ul class="posts-list">
       {% for post in category[1] %}
