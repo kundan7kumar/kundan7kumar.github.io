@@ -6,6 +6,16 @@ modified:
 comments: false
 ---
 
+Kundan Kumar
+
+Iowa State University\
+Atanasoff Hall,\
+2434 Osborn Dr,\
+Ames, IA 50011
+
+You can reach me at: <a href="mailto:kkumar@iastate.edu">kkumar@iastate.edu</a> or
+<a href="mailto:cs.kundann@gmail.com">cs.kundann@gmail.com</a>
+
 <!-- Button for downloading the resume -->
 <div style="display: flex; justify-content: flex-end; margin-bottom: 10px;">
   <a href="/reports/Kundan_Kumar_Fall2023_Resume.docx.pdf" download="Kundan_Kumar_Resume.pdf">
