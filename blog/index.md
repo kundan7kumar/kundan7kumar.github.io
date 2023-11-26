@@ -4,6 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
+-----------------------
 <style>
   .category {
     border-bottom: 1px solid #ddd; /* Border between categories */
