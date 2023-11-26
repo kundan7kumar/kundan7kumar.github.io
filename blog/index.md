@@ -22,6 +22,7 @@ permalink: /blog/
 
   .posts-list li {
     margin-bottom: 10px;
+    list-style: disc;
   }
 </style>
 
