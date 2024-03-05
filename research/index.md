@@ -30,15 +30,27 @@ Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Tr
 #### Conferences Paper
 
 1. **Kundan Kumar**, Gelli RaviKumar    
-[Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids (ISGT)]()   
-*Conference on Innovative Smart Grid Technologies(ISGT), 2024.*   
+[Bayesian Optimization for Deep Reinforcement Learning in Robust Volt-Var Control]()   
+*Conference on PES General Meeting(PES-GM), 2024.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
 
-2. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
+2. **Kundan Kumar**, Gelli RaviKumar    
+[Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids]()   
+*Conference on Innovative Smart Grid Technologies(ISGT), 2024.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10454163)
+[<button type="button" class="btn btn-info">Poster</button>](https://arxiv.org/abs/2202.13541)
+
+3. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
+[Deep Learning and Pattern-based Methodology for Multivariable Sensor Data Regression]()   
+*International Conference on Machine Learning (ICMLA), 2022.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10069730)
+
+
+<!-- 2. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
 [Pattern Based Multivariate Regression using Deep Learning (PBMR-DP)]()   
 *International Conference on Machine Learning (ICMLA), 2022.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
-
+ -->
 3. Kin Gwn Lore, Nicholas Sweet, **Kundan Kumar**, N Ahmed, S Sarkar    
 [Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering]()   
 *International Conference on Cyber-Physical Systems (ICCPS), 2016.*   
