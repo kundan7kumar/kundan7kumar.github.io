@@ -28,7 +28,7 @@ My research combines computer science and statistics to optimize and secure Smar
 
     <tr>
         <td valign="top"><strong>[Nov 2023]</strong></td>
-        <td>Our paper on <a href="Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a> has been accepted <a href="https://ieee-isgt.org/"> Innovative Smart Grid Technologies&#42; 2024</a></td>
+        <td>Our paper on <a href="https://ieeexplore.ieee.org/document/10454163">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a> has been accepted <a href="https://ieee-isgt.org/"> Innovative Smart Grid Technologies&#42; 2024</a></td>
     </tr>
 
     <tr>
