@@ -38,20 +38,14 @@ Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Tr
 [Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids]()   
 *Conference on Innovative Smart Grid Technologies(ISGT), 2024.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10454163)
-[<button type="button" class="btn btn-info">Poster</button>]<a href="/reports/Kumar_Kundan_Spring2024_Resume_v2.docx-1.pdf">
+[<button type="button" class="btn btn-info">Poster</button>](<a href="/reports/Kumar_Kundan_Spring2024_Resume_v2.docx-1.pdf">)
 <!-- <a href="/publications/Kumar_Kundan_Spring2024_Resume_v2.docx-1.pdf"> -->
 3. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
 [Deep Learning and Pattern-based Methodology for Multivariable Sensor Data Regression]()   
 *International Conference on Machine Learning (ICMLA), 2022.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://ieeexplore.ieee.org/document/10069730)
 
-
-<!-- 2. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
-[Pattern Based Multivariate Regression using Deep Learning (PBMR-DP)]()   
-*International Conference on Machine Learning (ICMLA), 2022.*   
-[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
- -->
-3. Kin Gwn Lore, Nicholas Sweet, **Kundan Kumar**, N Ahmed, S Sarkar    
+4. Kin Gwn Lore, Nicholas Sweet, **Kundan Kumar**, N Ahmed, S Sarkar    
 [Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering]()   
 *International Conference on Cyber-Physical Systems (ICCPS), 2016.*   
 [<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/1512.07592)
@@ -59,3 +53,9 @@ Deep Reinforcement Learning, Deep Learning Neural Networks, Machine Learning, Tr
 
 
 
+
+<!-- 2. JK Francis, C Kumar, J Herrera-Gerena, **Kundan Kumar**, MJ Darr     
+[Pattern Based Multivariate Regression using Deep Learning (PBMR-DP)]()   
+*International Conference on Machine Learning (ICMLA), 2022.*   
+[<button type="button" class="btn btn-info">Paper</button>](https://arxiv.org/abs/2202.13541)
+ -->
