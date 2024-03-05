@@ -19,9 +19,16 @@ My research combines computer science and statistics to optimize and secure Smar
 <table class='news-table'>
     <col width="15%">
     <col width="85%">
+
+        <tr>
+        <td valign="top"><strong>[Feb 2024]</strong></td>
+        <td>Our paper on <a href="">Bayesian Optimization for Deep Reinforcement Learning in Robust Volt-Var Control </a> has been accepted in <a href="https://pes-gm.org/"> PES-General Meeting&#42; 2024</a></td>
+    </tr>
+
+
     <tr>
         <td valign="top"><strong>[Nov 2023]</strong></td>
-        <td>Our paper on <a href="">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a>  has been accepted <a href="https://ieee-isgt.org/"> IEEE Smart Grid&#42; 2024</a></td>
+        <td>Our paper on <a href="Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids">Deep RL-based Volt-VAR Control and Attack Resiliency for DER-integrated Distribution Grids-Accepted </a> has been accepted <a href="https://ieee-isgt.org/"> Innovative Smart Grid Technologies&#42; 2024</a></td>
     </tr>
 
     <tr>
@@ -35,10 +42,6 @@ My research combines computer science and statistics to optimize and secure Smar
         <td>Our paper on <a href="https://arxiv.org/pdf/2202.13541.pdf">Pattern Based Multivariate Regression using Deep Learning (PBMR-DP) </a> has been accepted in <a href="https://www.icmla-conference.org/icmla22/">ICMLA&#42; 2022</a></td>
     </tr>
 
-    <tr>
-        <td valign="top"><strong>[Apr 2016]</strong></td>
-        <td>Our paper on <a href="https://ieeexplore.ieee.org/abstract/document/7479095">Deep Value of Information Estimators for Collaborative Human-Machine Information Gathering </a> has been accepted in <a href="https://iccps.acm.org/2016/">ICCPS&#42; 2016</a></td>
-    </tr>
 </table>
 ---------------------------
 
